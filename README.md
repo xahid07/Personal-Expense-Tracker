@@ -15,7 +15,7 @@ A Python CLI application to track daily expenses, categorize them, and generate 
 ## Project Structure
 
 ```text
-Expense-Tracker/
+Personal-Expense-Tracker/
 │
 ├── .gitignore
 ├── LICENSE
