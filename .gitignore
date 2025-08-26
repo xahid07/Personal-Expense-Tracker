@@ -1,5 +1,5 @@
 # Python cache
-__pycache__/
+**/__pycache__/
 *.pyc
 *.pyo
 
@@ -14,3 +14,13 @@ venv/
 # Others
 *.log
 *.sqlite3
+Thumbs.db
+.DS_Store
+# Python egg / dist files (if packaging later)
+*.egg-info/
+dist/
+build/
+
+
+#Files for starting from compeletely newly if someone want
+src/personal_expense_tracker/files/*
