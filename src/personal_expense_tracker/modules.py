@@ -1,7 +1,7 @@
 from datetime import datetime
-import json
-import csv
+from collections import defaultdict
 from pathlib import Path
+import json
 
 #  Always resolve project root dynamically
 PROJECT_ROOT = Path(__file__).resolve().parents[2]  
@@ -10,6 +10,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 FILES_DIR = PROJECT_ROOT / "src" / "personal_expense_tracker" / "files"
 _file = FILES_DIR / "expense.txt"
 
+# Protected function to Ensure the directory exist...
 def _ensure_dir_helper(path: Path) -> Path:
     """
     Ensure a directory exists. If not, create it (with parents).
@@ -39,7 +40,7 @@ def _file_saving_helper(data, file = _file, line_number = None):
             f.write('\n')
         print('Data has been updated to the file...')
 
-# Protected Function to Loading Data as JSON fomrat...
+# Protected Function to Loading Data as dict fomrat...
 def _loading_data_helper(file):
     """Protected Function: Return file's in a list of dict format"""
     with open(file, 'r') as f:
@@ -53,6 +54,7 @@ def _loading_data_helper(file):
         except FileNotFoundError:
             return []
 
+# Protected Function to date validation...
 def _date_validation_helper(date):
     try:
         valid_date = datetime.strptime(date, "%Y-%m-%d").date()
@@ -60,7 +62,11 @@ def _date_validation_helper(date):
     except ValueError:
         return False
 
-# Data adding to the File method...
+def _enumerate_show_helper(data):
+    enumerate_data = enumerate(data, start=1)
+    for index, expense in enumerate_data:
+        print(f"id: {index} ---- Expense Data: {expense}")
+
 def add_expense():
     """Function for adding expense list to the file..."""
 
@@ -103,24 +109,24 @@ def add_expense():
         else:
             add_expense()
 
-
 def view_expense(file=_file):
     print("All expenses are listed there:");
     list_of_dict = _loading_data_helper(file)
-    json_data = json.dumps(list_of_dict, indent=4)
-    print(json_data)
-
+    total_items = len(list_of_dict)
+    total_expense = 0
+    for data in list_of_dict:
+        total_expense += data['amount']
+    # json_data = json.dumps(list_of_dict)
+    _enumerate_show_helper(list_of_dict)
+    print(f"Total items: {total_items} and total expense: ${total_expense:,.2f}")
 
 def update_expense(file = _file):
     """
     Function to update any expense entry based on the user input
     """
     list_of_dict = _loading_data_helper(file)
-    enumerate_data = enumerate(list_of_dict, start=1)
     count = len(list_of_dict)
-    for index, expense in enumerate_data:
-        print(f"id: {index} --- {expense}")
-
+    _enumerate_show_helper(list_of_dict)
     choice = input("Select the id to be updated: ").strip()
     if choice.isdigit():
         id = int(choice)
@@ -157,12 +163,38 @@ def categorize_expense(file = _file):
         # 3. Format: {Food: [{'item':'vagetable', 'amount':221.0,...}, {'item':'vagetable', 'amount':221.0,...}]}
     data = _loading_data_helper(file)
     if data:
-        unique_categories = {}
-        print(f"Unique categories: {unique_categories}")
+        unique_categories = defaultdict(list)
         for entry in data:
             cat = entry['category']
-            if cat not in unique_categories:
-                unique_categories[cat] = []
             unique_categories[cat].append(entry)
 
-        print(unique_categories)
+        for cat, items in unique_categories.items():
+            print(f"\nCategory Name: {cat}")
+            print('Items on this category:')
+            for entry in items:
+                print(f"  - {entry['item']} (Amount: {entry['amount']}, Date: {entry['date']})")
+            print('\n')
+def generate_summary(file = _file):
+    list_of_dict = _loading_data_helper(file)
+    sorted_list  = sorted(
+        list_of_dict,
+        key = lambda singleDict: datetime.strptime(singleDict['date'], "%Y-%m-%d")
+    )
+    _enumerate_show_helper(sorted_list)
+
+    print("Choose which report do you want:\n1.Weekly\n2.Monthly\n3.Yearly\n4.Custom\n")
+    choice = input("Enter your choice: ").strip()
+
+    match(choice):
+        case '1':
+            pass
+        case '2':
+            pass
+        case '3':
+            pass
+        case '4':
+            pass
+        case _:
+            print('Invalid choice. No summary.')
+
+    

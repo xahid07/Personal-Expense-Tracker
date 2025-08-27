@@ -1,0 +1,1130 @@
+{"category": "Food", "item": "Fruits", "amount": 4342.0, "date": "2025-03-23"}
+{"category": "Food", "item": "Meat of Cow", "amount": 434.54, "date": "2025-08-26"}
+{"category": "Grocery", "item": "Vegetables", "amount": 320.0, "date": "2025-01-10"}
+{"category": "Transport", "item": "Bus Ticket", "amount": 50.0, "date": "2025-02-05"}
+{"category": "Transport", "item": "Train Ticket", "amount": 150.0, "date": "2025-06-14"}
+{"category": "Utilities", "item": "Electricity Bill", "amount": 1200.5, "date": "2025-04-12"}
+{"category": "Utilities", "item": "Water Bill", "amount": 340.75, "date": "2025-04-20"}
+{"category": "Entertainment", "item": "Movie Ticket", "amount": 200.0, "date": "2025-05-02"}
+{"category": "Entertainment", "item": "Concert", "amount": 1500.0, "date": "2025-07-18"}
+{"category": "Health", "item": "Medicine", "amount": 560.25, "date": "2025-01-25"}
+{"category": "Health", "item": "Doctor Visit", "amount": 1200.0, "date": "2024-12-15"}
+{"category": "Education", "item": "Books", "amount": 750.0, "date": "2025-02-11"}
+{"category": "Education", "item": "Course Fee", "amount": 5000.0, "date": "2025-06-05"}
+{"category": "Shopping", "item": "Clothes", "amount": 2200.0, "date": "2025-03-01"}
+{"category": "Shopping", "item": "Shoes", "amount": 1800.0, "date": "2024-11-22"}
+{"category": "Travel", "item": "Hotel", "amount": 8000.0, "date": "2025-07-10"}
+{"category": "Travel", "item": "Flight Ticket", "amount": 15000.0, "date": "2024-10-05"}
+{"category": "Food", "item": "Pizza", "amount": 500.0, "date": "2025-02-28"}
+{"category": "Food", "item": "Burger", "amount": 350.0, "date": "2025-01-19"}
+{"category": "Grocery", "item": "Rice", "amount": 1200.0, "date": "2025-06-22"}
+{"category": "Grocery", "item": "Oil", "amount": 950.0, "date": "2025-03-29"}
+{"category": "Transport", "item": "Taxi", "amount": 700.0, "date": "2025-05-14"}
+{"category": "Transport", "item": "Fuel", "amount": 3000.0, "date": "2025-07-05"}
+{"category": "Utilities", "item": "Internet Bill", "amount": 1800.0, "date": "2025-08-01"}
+{"category": "Utilities", "item": "Gas Bill", "amount": 400.0, "date": "2025-08-09"}
+{"category": "Entertainment", "item": "Games", "amount": 2600.0, "date": "2025-02-18"}
+{"category": "Health", "item": "Gym Membership", "amount": 2500.0, "date": "2025-05-21"}
+{"category": "Education", "item": "Online Subscription", "amount": 1200.0, "date": "2025-07-28"}
+{"category": "Shopping", "item": "Accessories", "amount": 900.0, "date": "2025-04-30"}
+{"category": "Travel", "item": "Tour Package", "amount": 25000.0, "date": "2025-01-02"}
+{"category": "Utilities", "item": "Electricity", "amount": 1309.41, "date": "2025-08-02"}
+{"category": "Utilities", "item": "Electricity", "amount": 13069.59, "date": "2024-04-21"}
+{"category": "Shopping", "item": "Accessories", "amount": 18897.88, "date": "2024-11-21"}
+{"category": "Education", "item": "Books", "amount": 1967.2, "date": "2024-10-09"}
+{"category": "Grocery", "item": "Oil", "amount": 3077.84, "date": "2025-02-20"}
+{"category": "Health", "item": "Gym", "amount": 17334.45, "date": "2024-08-09"}
+{"category": "Health", "item": "Gym", "amount": 8301.71, "date": "2024-06-23"}
+{"category": "Travel", "item": "Taxi", "amount": 308.04, "date": "2024-09-23"}
+{"category": "Health", "item": "Gym", "amount": 18379.89, "date": "2024-09-05"}
+{"category": "Shopping", "item": "Shoes", "amount": 19850.01, "date": "2025-09-14"}
+{"category": "Travel", "item": "Taxi", "amount": 11820.91, "date": "2024-06-22"}
+{"category": "Utilities", "item": "Gas", "amount": 3191.72, "date": "2024-02-27"}
+{"category": "Travel", "item": "Tour Package", "amount": 9013.31, "date": "2024-12-15"}
+{"category": "Utilities", "item": "Electricity", "amount": 19354.04, "date": "2025-12-27"}
+{"category": "Grocery", "item": "Oil", "amount": 8110.35, "date": "2025-11-03"}
+{"category": "Utilities", "item": "Gas", "amount": 18157.21, "date": "2024-12-09"}
+{"category": "Entertainment", "item": "Concert", "amount": 9861.75, "date": "2024-04-26"}
+{"category": "Shopping", "item": "Clothes", "amount": 18777.58, "date": "2024-06-22"}
+{"category": "Education", "item": "Books", "amount": 10450.66, "date": "2025-03-26"}
+{"category": "Utilities", "item": "Electricity", "amount": 6757.37, "date": "2025-01-06"}
+{"category": "Health", "item": "Gym", "amount": 5814.66, "date": "2025-03-12"}
+{"category": "Food", "item": "Vegetables", "amount": 18634.99, "date": "2024-05-18"}
+{"category": "Utilities", "item": "Electricity", "amount": 16449.95, "date": "2024-01-11"}
+{"category": "Entertainment", "item": "Concert", "amount": 12514.07, "date": "2025-09-15"}
+{"category": "Utilities", "item": "Water Bill", "amount": 3989.12, "date": "2025-08-12"}
+{"category": "Shopping", "item": "Shoes", "amount": 3505.29, "date": "2024-10-15"}
+{"category": "Grocery", "item": "Milk", "amount": 10222.8, "date": "2025-11-25"}
+{"category": "Grocery", "item": "Rice", "amount": 19484.97, "date": "2025-12-03"}
+{"category": "Food", "item": "Vegetables", "amount": 7385.26, "date": "2024-11-14"}
+{"category": "Food", "item": "Fruits", "amount": 1910.38, "date": "2024-08-22"}
+{"category": "Education", "item": "Online Subscription", "amount": 5107.2, "date": "2025-11-04"}
+{"category": "Utilities", "item": "Internet", "amount": 3320.03, "date": "2024-04-30"}
+{"category": "Travel", "item": "Taxi", "amount": 587.71, "date": "2025-10-30"}
+{"category": "Utilities", "item": "Gas", "amount": 12639.74, "date": "2025-11-19"}
+{"category": "Utilities", "item": "Gas", "amount": 11998.08, "date": "2025-07-02"}
+{"category": "Food", "item": "Burger", "amount": 11186.82, "date": "2025-04-14"}
+{"category": "Entertainment", "item": "Streaming Subscription", "amount": 9018.83, "date": "2025-02-27"}
+{"category": "Grocery", "item": "Rice", "amount": 3527.23, "date": "2025-08-09"}
+{"category": "Entertainment", "item": "Concert", "amount": 18859.39, "date": "2025-12-19"}
+{"category": "Health", "item": "Gym", "amount": 2169.04, "date": "2025-11-15"}
+{"category": "Grocery", "item": "Fruits", "amount": 14142.46, "date": "2024-09-13"}
+{"category": "Travel", "item": "Tour Package", "amount": 2921.52, "date": "2024-03-09"}
+{"category": "Utilities", "item": "Gas", "amount": 17061.81, "date": "2024-10-11"}
+{"category": "Shopping", "item": "Accessories", "amount": 15761.15, "date": "2025-07-02"}
+{"category": "Travel", "item": "Flight Ticket", "amount": 10706.16, "date": "2025-11-13"}
+{"category": "Utilities", "item": "Gas", "amount": 1593.2, "date": "2024-04-18"}
+{"category": "Health", "item": "Gym", "amount": 7436.1, "date": "2025-01-04"}
+{"category": "Health", "item": "Gym", "amount": 582.29, "date": "2024-01-12"}
+{"category": "Food", "item": "Vegetables", "amount": 10470.93, "date": "2025-10-20"}
+{"category": "Travel", "item": "Tour Package", "amount": 3950.86, "date": "2024-07-28"}
+{"category": "Utilities", "item": "Internet", "amount": 5911.01, "date": "2024-10-05"}
+{"category": "Health", "item": "Medicine", "amount": 8923.09, "date": "2025-12-05"}
+{"category": "Health", "item": "Medicine", "amount": 15328.27, "date": "2025-04-28"}
+{"category": "Health", "item": "Therapy", "amount": 16214.84, "date": "2024-09-04"}
+{"category": "Utilities", "item": "Internet", "amount": 19541.0, "date": "2025-03-05"}
+{"category": "Food", "item": "Pizza", "amount": 18643.66, "date": "2024-04-14"}
+{"category": "Health", "item": "Gym", "amount": 7164.46, "date": "2024-02-08"}
+{"category": "Health", "item": "Gym", "amount": 12995.79, "date": "2024-10-29"}
+{"category": "Grocery", "item": "Oil", "amount": 2530.96, "date": "2025-07-30"}
+{"category": "Utilities", "item": "Water Bill", "amount": 11753.76, "date": "2025-03-27"}
+{"category": "Grocery", "item": "Rice", "amount": 12467.49, "date": "2024-11-01"}
+{"category": "Entertainment", "item": "Game", "amount": 3063.44, "date": "2025-06-03"}
+{"category": "Utilities", "item": "Water Bill", "amount": 16500.97, "date": "2024-02-02"}
+{"category": "Food", "item": "Fruits", "amount": 13813.09, "date": "2024-09-18"}
+{"category": "Shopping", "item": "Electronics", "amount": 2391.9, "date": "2025-12-02"}
+{"category": "Entertainment", "item": "Concert", "amount": 7816.84, "date": "2024-07-10"}
+{"category": "Grocery", "item": "Bread", "amount": 16591.89, "date": "2025-01-27"}
+{"category": "Shopping", "item": "Electronics", "amount": 8146.03, "date": "2024-07-17"}
+{"category": "Entertainment", "item": "Streaming Subscription", "amount": 10314.75, "date": "2025-06-08"}
+{"category": "Travel", "item": "Flight Ticket", "amount": 9589.65, "date": "2024-10-15"}
+{"category": "Health", "item": "Therapy", "amount": 10070.27, "date": "2024-02-12"}
+{"category": "Shopping", "item": "Clothes", "amount": 321.56, "date": "2025-10-14"}
+{"category": "Utilities", "item": "Water Bill", "amount": 9559.68, "date": "2024-02-04"}
+{"category": "Education", "item": "Course Fee", "amount": 383.79, "date": "2024-03-22"}
+{"category": "Entertainment", "item": "Movie", "amount": 1452.09, "date": "2025-05-24"}
+{"category": "Utilities", "item": "Gas", "amount": 7016.37, "date": "2025-01-12"}
+{"category": "Utilities", "item": "Gas", "amount": 11685.68, "date": "2024-01-28"}
+{"category": "Health", "item": "Doctor Visit", "amount": 11431.17, "date": "2024-04-28"}
+{"category": "Food", "item": "Burger", "amount": 12756.7, "date": "2025-12-27"}
+{"category": "Food", "item": "Pasta", "amount": 15581.06, "date": "2024-07-04"}
+{"category": "Utilities", "item": "Gas", "amount": 1873.15, "date": "2025-05-29"}
+{"category": "Shopping", "item": "Electronics", "amount": 11477.81, "date": "2024-03-08"}
+{"category": "Entertainment", "item": "Movie", "amount": 7312.67, "date": "2024-06-16"}
+{"category": "Utilities", "item": "Internet", "amount": 9048.5, "date": "2024-11-21"}
+{"category": "Utilities", "item": "Electricity", "amount": 4634.77, "date": "2024-08-16"}
+{"category": "Travel", "item": "Hotel", "amount": 10921.6, "date": "2025-04-30"}
+{"category": "Food", "item": "Burger", "amount": 8372.78, "date": "2024-10-03"}
+{"category": "Travel", "item": "Hotel", "amount": 15325.45, "date": "2024-08-25"}
+{"category": "Utilities", "item": "Gas", "amount": 14385.81, "date": "2025-05-28"}
+{"category": "Education", "item": "Stationery", "amount": 13624.21, "date": "2024-06-23"}
+{"category": "Grocery", "item": "Milk", "amount": 2368.46, "date": "2024-12-10"}
+{"category": "Utilities", "item": "Electricity", "amount": 3446.65, "date": "2024-04-22"}
+{"category": "Grocery", "item": "Milk", "amount": 15479.26, "date": "2024-06-15"}
+{"category": "Education", "item": "Course Fee", "amount": 9928.55, "date": "2025-05-29"}
+{"category": "Education", "item": "Course Fee", "amount": 4331.9, "date": "2024-08-29"}
+{"category": "Food", "item": "Vegetables", "amount": 8408.08, "date": "2025-06-25"}
+{"category": "Shopping", "item": "Accessories", "amount": 11916.62, "date": "2025-09-07"}
+{"category": "Entertainment", "item": "Streaming Subscription", "amount": 2137.24, "date": "2025-06-13"}
+{"category": "Food", "item": "Pasta", "amount": 19491.13, "date": "2024-05-18"}
+{"category": "Grocery", "item": "Oil", "amount": 18649.45, "date": "2024-06-14"}
+{"category": "Entertainment", "item": "Streaming", "amount": 11585.66, "date": "2025-04-17"}
+{"category": "Shopping", "item": "Groceries", "amount": 16155.75, "date": "2025-09-19"}
+{"category": "Shopping", "item": "Accessories", "amount": 7881.91, "date": "2025-02-10"}
+{"category": "Transportation", "item": "Maintenance", "amount": 13084.39, "date": "2025-05-10"}
+{"category": "Utilities", "item": "Water Bill", "amount": 22162.5, "date": "2025-06-27"}
+{"category": "Entertainment", "item": "Games", "amount": 26549.63, "date": "2025-04-02"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 22745.63, "date": "2025-08-22"}
+{"category": "Entertainment", "item": "Games", "amount": 24801.67, "date": "2025-09-03"}
+{"category": "Housing", "item": "Rent", "amount": 29511.41, "date": "2025-12-04"}
+{"category": "Healthcare", "item": "Dental", "amount": 27481.07, "date": "2025-02-21"}
+{"category": "Entertainment", "item": "Books", "amount": 520.01, "date": "2025-12-17"}
+{"category": "Shopping", "item": "Clothing", "amount": 504.63, "date": "2025-12-18"}
+{"category": "Transportation", "item": "Taxi", "amount": 27422.13, "date": "2025-06-21"}
+{"category": "Food", "item": "Coffee", "amount": 23141.95, "date": "2025-02-28"}
+{"category": "Healthcare", "item": "Insurance", "amount": 8755.3, "date": "2025-09-07"}
+{"category": "Shopping", "item": "Accessories", "amount": 10332.09, "date": "2025-05-03"}
+{"category": "Housing", "item": "Rent", "amount": 23052.26, "date": "2025-02-05"}
+{"category": "Food", "item": "Fast Food", "amount": 29785.4, "date": "2025-04-10"}
+{"category": "Shopping", "item": "Electronics", "amount": 7096.36, "date": "2025-11-04"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 14509.95, "date": "2025-01-26"}
+{"category": "Entertainment", "item": "Concerts", "amount": 29862.08, "date": "2025-07-06"}
+{"category": "Transportation", "item": "Taxi", "amount": 19529.3, "date": "2025-09-04"}
+{"category": "Housing", "item": "Maintenance", "amount": 21908.79, "date": "2025-10-10"}
+{"category": "Entertainment", "item": "Concerts", "amount": 20188.83, "date": "2025-12-05"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 5120.18, "date": "2025-04-20"}
+{"category": "Food", "item": "Fast Food", "amount": 17971.39, "date": "2025-05-02"}
+{"category": "Food", "item": "Restaurant", "amount": 7078.73, "date": "2025-06-30"}
+{"category": "Healthcare", "item": "Dental", "amount": 17697.23, "date": "2025-05-28"}
+{"category": "Utilities", "item": "Internet", "amount": 28594.27, "date": "2025-07-19"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 11621.24, "date": "2025-12-11"}
+{"category": "Healthcare", "item": "Medication", "amount": 13433.56, "date": "2025-09-10"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 12830.06, "date": "2025-11-29"}
+{"category": "Transportation", "item": "Gasoline", "amount": 17018.48, "date": "2025-09-04"}
+{"category": "Housing", "item": "Repairs", "amount": 21457.46, "date": "2025-02-11"}
+{"category": "Housing", "item": "Maintenance", "amount": 4924.14, "date": "2025-10-16"}
+{"category": "Food", "item": "Restaurant", "amount": 18425.18, "date": "2025-06-07"}
+{"category": "Personal", "item": "Gym", "amount": 14986.22, "date": "2025-11-09"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 25258.67, "date": "2025-08-03"}
+{"category": "Entertainment", "item": "Movies", "amount": 7783.25, "date": "2025-03-11"}
+{"category": "Personal", "item": "Gym", "amount": 19912.52, "date": "2025-10-27"}
+{"category": "Utilities", "item": "Gas", "amount": 6598.12, "date": "2025-09-02"}
+{"category": "Utilities", "item": "Internet", "amount": 16249.99, "date": "2025-05-13"}
+{"category": "Personal", "item": "Donations", "amount": 8234.08, "date": "2025-01-05"}
+{"category": "Housing", "item": "Rent", "amount": 19141.21, "date": "2025-10-16"}
+{"category": "Utilities", "item": "Internet", "amount": 7847.12, "date": "2025-08-13"}
+{"category": "Healthcare", "item": "Dental", "amount": 25286.39, "date": "2025-02-07"}
+{"category": "Entertainment", "item": "Games", "amount": 22388.98, "date": "2025-03-24"}
+{"category": "Utilities", "item": "Electricity", "amount": 4510.17, "date": "2025-08-26"}
+{"category": "Healthcare", "item": "Medication", "amount": 28606.9, "date": "2025-09-01"}
+{"category": "Personal", "item": "Gifts", "amount": 10691.44, "date": "2025-10-26"}
+{"category": "Personal", "item": "Gym", "amount": 23159.84, "date": "2025-02-09"}
+{"category": "Personal", "item": "Gym", "amount": 24539.78, "date": "2025-03-11"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 9794.89, "date": "2025-08-21"}
+{"category": "Housing", "item": "Repairs", "amount": 27044.84, "date": "2025-04-29"}
+{"category": "Healthcare", "item": "Optometry", "amount": 11310.55, "date": "2025-02-16"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 19808.77, "date": "2025-04-12"}
+{"category": "Personal", "item": "Gifts", "amount": 28698.39, "date": "2025-07-18"}
+{"category": "Healthcare", "item": "Insurance", "amount": 2210.35, "date": "2025-09-17"}
+{"category": "Transportation", "item": "Gasoline", "amount": 18069.86, "date": "2025-05-12"}
+{"category": "Food", "item": "Groceries", "amount": 12694.42, "date": "2025-03-10"}
+{"category": "Transportation", "item": "Public Transport", "amount": 19371.05, "date": "2025-06-19"}
+{"category": "Shopping", "item": "Clothing", "amount": 12659.34, "date": "2025-04-20"}
+{"category": "Transportation", "item": "Maintenance", "amount": 2662.35, "date": "2025-02-25"}
+{"category": "Personal", "item": "Donations", "amount": 22426.03, "date": "2025-05-16"}
+{"category": "Entertainment", "item": "Movies", "amount": 10465.41, "date": "2025-08-04"}
+{"category": "Utilities", "item": "Water Bill", "amount": 5819.74, "date": "2025-08-20"}
+{"category": "Shopping", "item": "Electronics", "amount": 27588.42, "date": "2025-04-20"}
+{"category": "Shopping", "item": "Accessories", "amount": 21804.22, "date": "2025-02-15"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 1668.6, "date": "2025-04-27"}
+{"category": "Utilities", "item": "Electricity", "amount": 13199.85, "date": "2025-03-12"}
+{"category": "Healthcare", "item": "Insurance", "amount": 3714.39, "date": "2025-11-23"}
+{"category": "Food", "item": "Groceries", "amount": 22939.12, "date": "2025-08-16"}
+{"category": "Entertainment", "item": "Movies", "amount": 29288.3, "date": "2025-05-27"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 20365.1, "date": "2025-02-21"}
+{"category": "Housing", "item": "Repairs", "amount": 15632.78, "date": "2025-11-07"}
+{"category": "Healthcare", "item": "Insurance", "amount": 19129.55, "date": "2025-05-10"}
+{"category": "Utilities", "item": "Gas", "amount": 19334.75, "date": "2025-09-29"}
+{"category": "Transportation", "item": "Public Transport", "amount": 12488.29, "date": "2025-12-03"}
+{"category": "Housing", "item": "Furniture", "amount": 8831.62, "date": "2025-01-18"}
+{"category": "Food", "item": "Restaurant", "amount": 22859.45, "date": "2025-08-10"}
+{"category": "Food", "item": "Takeout", "amount": 16590.95, "date": "2025-12-22"}
+{"category": "Healthcare", "item": "Medication", "amount": 10723.25, "date": "2025-12-10"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 4736.67, "date": "2025-07-17"}
+{"category": "Shopping", "item": "Clothing", "amount": 18300.47, "date": "2025-08-28"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 954.55, "date": "2025-08-18"}
+{"category": "Utilities", "item": "Water Bill", "amount": 21577.39, "date": "2025-01-19"}
+{"category": "Food", "item": "Groceries", "amount": 20983.26, "date": "2025-12-10"}
+{"category": "Food", "item": "Takeout", "amount": 3261.6, "date": "2025-11-05"}
+{"category": "Entertainment", "item": "Games", "amount": 13465.55, "date": "2025-10-24"}
+{"category": "Personal", "item": "Donations", "amount": 8427.59, "date": "2025-08-23"}
+{"category": "Entertainment", "item": "Movies", "amount": 14716.4, "date": "2025-04-14"}
+{"category": "Housing", "item": "Maintenance", "amount": 19943.88, "date": "2025-10-26"}
+{"category": "Shopping", "item": "Groceries", "amount": 6973.48, "date": "2025-12-25"}
+{"category": "Personal", "item": "Gym", "amount": 24122.48, "date": "2025-11-09"}
+{"category": "Transportation", "item": "Public Transport", "amount": 4588.35, "date": "2025-05-25"}
+{"category": "Personal", "item": "Haircut", "amount": 6834.71, "date": "2025-07-25"}
+{"category": "Healthcare", "item": "Insurance", "amount": 25557.97, "date": "2025-09-18"}
+{"category": "Food", "item": "Restaurant", "amount": 28975.35, "date": "2025-06-29"}
+{"category": "Shopping", "item": "Electronics", "amount": 9279.12, "date": "2025-03-14"}
+{"category": "Healthcare", "item": "Dental", "amount": 25953.22, "date": "2025-09-18"}
+{"category": "Personal", "item": "Clothing", "amount": 2970.56, "date": "2025-06-28"}
+{"category": "Utilities", "item": "Internet", "amount": 2898.63, "date": "2025-03-07"}
+{"category": "Utilities", "item": "Internet", "amount": 21070.81, "date": "2025-06-26"}
+{"category": "Shopping", "item": "Electronics", "amount": 28414.81, "date": "2025-11-10"}
+{"category": "Housing", "item": "Rent", "amount": 5101.07, "date": "2025-08-13"}
+{"category": "Entertainment", "item": "Books", "amount": 22498.38, "date": "2025-01-04"}
+{"category": "Housing", "item": "Mortgage", "amount": 24348.44, "date": "2025-08-08"}
+{"category": "Transportation", "item": "Taxi", "amount": 19484.44, "date": "2025-03-12"}
+{"category": "Entertainment", "item": "Books", "amount": 3148.99, "date": "2025-09-13"}
+{"category": "Utilities", "item": "Internet", "amount": 15359.49, "date": "2025-09-14"}
+{"category": "Utilities", "item": "Gas", "amount": 8248.75, "date": "2025-08-31"}
+{"category": "Food", "item": "Takeout", "amount": 23974.89, "date": "2025-12-14"}
+{"category": "Entertainment", "item": "Games", "amount": 6810.88, "date": "2025-04-12"}
+{"category": "Food", "item": "Fast Food", "amount": 27269.1, "date": "2025-04-13"}
+{"category": "Entertainment", "item": "Streaming", "amount": 23316.02, "date": "2025-09-17"}
+{"category": "Personal", "item": "Clothing", "amount": 6401.47, "date": "2025-09-27"}
+{"category": "Food", "item": "Groceries", "amount": 11697.48, "date": "2025-09-12"}
+{"category": "Food", "item": "Fast Food", "amount": 18508.1, "date": "2025-10-17"}
+{"category": "Utilities", "item": "Gas", "amount": 25751.69, "date": "2025-11-23"}
+{"category": "Transportation", "item": "Maintenance", "amount": 27714.46, "date": "2025-05-15"}
+{"category": "Healthcare", "item": "Medication", "amount": 8910.5, "date": "2025-10-04"}
+{"category": "Entertainment", "item": "Concerts", "amount": 4978.69, "date": "2025-06-18"}
+{"category": "Utilities", "item": "Internet", "amount": 14823.7, "date": "2025-08-07"}
+{"category": "Entertainment", "item": "Concerts", "amount": 6436.57, "date": "2025-04-04"}
+{"category": "Transportation", "item": "Public Transport", "amount": 3106.13, "date": "2025-01-04"}
+{"category": "Transportation", "item": "Gasoline", "amount": 15163.0, "date": "2025-02-19"}
+{"category": "Food", "item": "Takeout", "amount": 21998.07, "date": "2025-06-18"}
+{"category": "Transportation", "item": "Taxi", "amount": 10262.95, "date": "2025-08-10"}
+{"category": "Healthcare", "item": "Insurance", "amount": 1809.92, "date": "2025-01-11"}
+{"category": "Transportation", "item": "Parking", "amount": 14025.34, "date": "2025-07-02"}
+{"category": "Entertainment", "item": "Games", "amount": 12506.88, "date": "2025-05-24"}
+{"category": "Healthcare", "item": "Medication", "amount": 4046.49, "date": "2025-11-02"}
+{"category": "Transportation", "item": "Gasoline", "amount": 21778.96, "date": "2025-09-03"}
+{"category": "Food", "item": "Groceries", "amount": 12694.49, "date": "2025-01-08"}
+{"category": "Entertainment", "item": "Games", "amount": 19696.41, "date": "2025-04-02"}
+{"category": "Utilities", "item": "Electricity", "amount": 24712.38, "date": "2025-08-09"}
+{"category": "Entertainment", "item": "Streaming", "amount": 26129.21, "date": "2025-06-01"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 15963.55, "date": "2025-04-12"}
+{"category": "Personal", "item": "Haircut", "amount": 27232.92, "date": "2025-12-24"}
+{"category": "Healthcare", "item": "Dental", "amount": 21548.03, "date": "2025-07-21"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 24377.55, "date": "2025-04-24"}
+{"category": "Healthcare", "item": "Medication", "amount": 23860.14, "date": "2025-08-13"}
+{"category": "Housing", "item": "Mortgage", "amount": 26314.17, "date": "2025-10-30"}
+{"category": "Healthcare", "item": "Optometry", "amount": 16378.66, "date": "2025-02-07"}
+{"category": "Housing", "item": "Repairs", "amount": 15901.48, "date": "2025-06-25"}
+{"category": "Housing", "item": "Furniture", "amount": 13626.59, "date": "2025-10-17"}
+{"category": "Healthcare", "item": "Insurance", "amount": 10766.68, "date": "2025-07-08"}
+{"category": "Food", "item": "Coffee", "amount": 5875.1, "date": "2025-10-05"}
+{"category": "Personal", "item": "Gym", "amount": 29656.93, "date": "2025-05-08"}
+{"category": "Personal", "item": "Gym", "amount": 29739.1, "date": "2025-09-26"}
+{"category": "Entertainment", "item": "Books", "amount": 3159.91, "date": "2025-01-17"}
+{"category": "Food", "item": "Groceries", "amount": 24166.42, "date": "2025-04-19"}
+{"category": "Personal", "item": "Gifts", "amount": 1705.67, "date": "2025-01-23"}
+{"category": "Food", "item": "Restaurant", "amount": 12659.16, "date": "2025-05-02"}
+{"category": "Food", "item": "Restaurant", "amount": 16180.69, "date": "2025-11-16"}
+{"category": "Personal", "item": "Gym", "amount": 1209.49, "date": "2025-04-12"}
+{"category": "Entertainment", "item": "Books", "amount": 28171.01, "date": "2025-10-16"}
+{"category": "Food", "item": "Restaurant", "amount": 7478.28, "date": "2025-11-16"}
+{"category": "Healthcare", "item": "Dental", "amount": 23570.52, "date": "2025-01-13"}
+{"category": "Food", "item": "Fast Food", "amount": 7937.19, "date": "2025-10-05"}
+{"category": "Food", "item": "Restaurant", "amount": 3916.25, "date": "2025-09-06"}
+{"category": "Utilities", "item": "Water Bill", "amount": 24957.61, "date": "2025-04-08"}
+{"category": "Housing", "item": "Maintenance", "amount": 5001.06, "date": "2025-12-30"}
+{"category": "Housing", "item": "Rent", "amount": 6330.97, "date": "2025-11-27"}
+{"category": "Food", "item": "Groceries", "amount": 4168.42, "date": "2025-11-09"}
+{"category": "Personal", "item": "Donations", "amount": 26879.24, "date": "2025-07-31"}
+{"category": "Healthcare", "item": "Dental", "amount": 3155.75, "date": "2025-04-29"}
+{"category": "Healthcare", "item": "Optometry", "amount": 832.96, "date": "2025-08-25"}
+{"category": "Transportation", "item": "Public Transport", "amount": 20995.88, "date": "2025-03-03"}
+{"category": "Transportation", "item": "Gasoline", "amount": 13882.22, "date": "2025-01-20"}
+{"category": "Healthcare", "item": "Medication", "amount": 25456.16, "date": "2025-06-19"}
+{"category": "Food", "item": "Takeout", "amount": 2498.56, "date": "2025-10-03"}
+{"category": "Food", "item": "Groceries", "amount": 23818.06, "date": "2025-06-08"}
+{"category": "Entertainment", "item": "Movies", "amount": 13005.07, "date": "2025-09-09"}
+{"category": "Healthcare", "item": "Optometry", "amount": 23616.21, "date": "2025-11-27"}
+{"category": "Transportation", "item": "Taxi", "amount": 9067.67, "date": "2025-11-19"}
+{"category": "Transportation", "item": "Parking", "amount": 19519.33, "date": "2025-08-26"}
+{"category": "Entertainment", "item": "Games", "amount": 6334.35, "date": "2025-11-24"}
+{"category": "Entertainment", "item": "Movies", "amount": 19130.75, "date": "2025-10-11"}
+{"category": "Food", "item": "Restaurant", "amount": 22685.64, "date": "2025-06-12"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 29295.99, "date": "2025-01-27"}
+{"category": "Utilities", "item": "Water Bill", "amount": 4056.95, "date": "2025-08-10"}
+{"category": "Healthcare", "item": "Dental", "amount": 13757.74, "date": "2025-08-18"}
+{"category": "Utilities", "item": "Electricity", "amount": 10140.58, "date": "2025-08-08"}
+{"category": "Shopping", "item": "Electronics", "amount": 6751.8, "date": "2025-04-07"}
+{"category": "Housing", "item": "Maintenance", "amount": 19253.66, "date": "2025-03-15"}
+{"category": "Personal", "item": "Haircut", "amount": 21311.79, "date": "2025-09-12"}
+{"category": "Transportation", "item": "Gasoline", "amount": 25180.94, "date": "2025-05-16"}
+{"category": "Healthcare", "item": "Medication", "amount": 10006.62, "date": "2025-04-09"}
+{"category": "Transportation", "item": "Parking", "amount": 3341.75, "date": "2025-04-03"}
+{"category": "Utilities", "item": "Internet", "amount": 28142.08, "date": "2025-01-10"}
+{"category": "Personal", "item": "Clothing", "amount": 12217.37, "date": "2025-12-30"}
+{"category": "Housing", "item": "Mortgage", "amount": 11850.78, "date": "2025-12-28"}
+{"category": "Food", "item": "Groceries", "amount": 14509.45, "date": "2025-04-20"}
+{"category": "Healthcare", "item": "Optometry", "amount": 8399.37, "date": "2025-12-02"}
+{"category": "Healthcare", "item": "Dental", "amount": 27222.32, "date": "2025-10-18"}
+{"category": "Personal", "item": "Haircut", "amount": 19269.4, "date": "2025-05-25"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 13064.99, "date": "2025-07-30"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 23733.34, "date": "2025-01-18"}
+{"category": "Transportation", "item": "Taxi", "amount": 23726.92, "date": "2025-03-18"}
+{"category": "Food", "item": "Coffee", "amount": 3307.97, "date": "2025-11-27"}
+{"category": "Personal", "item": "Clothing", "amount": 25643.79, "date": "2025-12-12"}
+{"category": "Entertainment", "item": "Movies", "amount": 2985.91, "date": "2025-07-02"}
+{"category": "Transportation", "item": "Maintenance", "amount": 27776.63, "date": "2025-09-01"}
+{"category": "Housing", "item": "Furniture", "amount": 10170.43, "date": "2025-10-12"}
+{"category": "Healthcare", "item": "Optometry", "amount": 23304.44, "date": "2025-12-31"}
+{"category": "Transportation", "item": "Taxi", "amount": 12941.55, "date": "2025-12-26"}
+{"category": "Shopping", "item": "Clothing", "amount": 13975.36, "date": "2025-04-29"}
+{"category": "Transportation", "item": "Gasoline", "amount": 13765.38, "date": "2025-05-02"}
+{"category": "Healthcare", "item": "Medication", "amount": 24842.55, "date": "2025-11-12"}
+{"category": "Transportation", "item": "Public Transport", "amount": 29359.37, "date": "2025-06-23"}
+{"category": "Housing", "item": "Furniture", "amount": 28602.36, "date": "2025-08-19"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 21250.95, "date": "2025-04-22"}
+{"category": "Entertainment", "item": "Games", "amount": 11954.15, "date": "2025-02-07"}
+{"category": "Personal", "item": "Clothing", "amount": 13735.45, "date": "2025-01-30"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 17622.04, "date": "2025-09-26"}
+{"category": "Personal", "item": "Haircut", "amount": 22550.24, "date": "2025-01-16"}
+{"category": "Housing", "item": "Rent", "amount": 15244.6, "date": "2025-06-18"}
+{"category": "Healthcare", "item": "Optometry", "amount": 15671.98, "date": "2025-03-10"}
+{"category": "Food", "item": "Takeout", "amount": 16725.22, "date": "2025-01-07"}
+{"category": "Utilities", "item": "Water Bill", "amount": 12844.36, "date": "2025-04-12"}
+{"category": "Shopping", "item": "Groceries", "amount": 9329.39, "date": "2025-09-24"}
+{"category": "Personal", "item": "Clothing", "amount": 10822.43, "date": "2025-12-17"}
+{"category": "Food", "item": "Restaurant", "amount": 2696.54, "date": "2025-02-13"}
+{"category": "Housing", "item": "Rent", "amount": 15450.66, "date": "2025-07-13"}
+{"category": "Shopping", "item": "Electronics", "amount": 3598.51, "date": "2025-04-29"}
+{"category": "Utilities", "item": "Water Bill", "amount": 28259.45, "date": "2025-07-09"}
+{"category": "Personal", "item": "Gym", "amount": 29189.47, "date": "2025-05-14"}
+{"category": "Entertainment", "item": "Games", "amount": 9706.81, "date": "2025-05-19"}
+{"category": "Transportation", "item": "Public Transport", "amount": 6123.11, "date": "2025-06-28"}
+{"category": "Shopping", "item": "Accessories", "amount": 22871.2, "date": "2025-09-12"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 15221.2, "date": "2025-08-23"}
+{"category": "Entertainment", "item": "Streaming", "amount": 20622.59, "date": "2025-10-07"}
+{"category": "Healthcare", "item": "Dental", "amount": 13826.55, "date": "2025-02-20"}
+{"category": "Healthcare", "item": "Insurance", "amount": 4906.27, "date": "2025-05-15"}
+{"category": "Shopping", "item": "Accessories", "amount": 3679.88, "date": "2025-08-08"}
+{"category": "Shopping", "item": "Clothing", "amount": 9639.1, "date": "2025-11-07"}
+{"category": "Food", "item": "Groceries", "amount": 10479.5, "date": "2025-07-09"}
+{"category": "Entertainment", "item": "Books", "amount": 23196.31, "date": "2025-04-07"}
+{"category": "Shopping", "item": "Electronics", "amount": 542.02, "date": "2025-10-17"}
+{"category": "Entertainment", "item": "Books", "amount": 5822.55, "date": "2025-08-27"}
+{"category": "Personal", "item": "Gifts", "amount": 3713.62, "date": "2025-06-27"}
+{"category": "Transportation", "item": "Taxi", "amount": 2541.48, "date": "2025-11-07"}
+{"category": "Food", "item": "Groceries", "amount": 27015.65, "date": "2025-10-28"}
+{"category": "Utilities", "item": "Gas", "amount": 26649.33, "date": "2025-08-14"}
+{"category": "Transportation", "item": "Gasoline", "amount": 4484.36, "date": "2025-01-12"}
+{"category": "Housing", "item": "Mortgage", "amount": 20547.08, "date": "2025-01-08"}
+{"category": "Housing", "item": "Maintenance", "amount": 9818.71, "date": "2025-05-06"}
+{"category": "Utilities", "item": "Gas", "amount": 26048.41, "date": "2025-05-25"}
+{"category": "Healthcare", "item": "Optometry", "amount": 7753.17, "date": "2025-08-03"}
+{"category": "Transportation", "item": "Public Transport", "amount": 22883.44, "date": "2025-10-06"}
+{"category": "Shopping", "item": "Clothing", "amount": 6903.55, "date": "2025-12-10"}
+{"category": "Food", "item": "Groceries", "amount": 26628.52, "date": "2025-02-27"}
+{"category": "Entertainment", "item": "Streaming", "amount": 10130.81, "date": "2025-07-15"}
+{"category": "Transportation", "item": "Public Transport", "amount": 9657.33, "date": "2025-07-15"}
+{"category": "Shopping", "item": "Clothing", "amount": 13556.31, "date": "2025-06-11"}
+{"category": "Utilities", "item": "Internet", "amount": 8959.22, "date": "2025-05-03"}
+{"category": "Personal", "item": "Haircut", "amount": 28241.74, "date": "2025-12-12"}
+{"category": "Housing", "item": "Mortgage", "amount": 16398.26, "date": "2025-10-07"}
+{"category": "Food", "item": "Groceries", "amount": 14933.22, "date": "2025-11-26"}
+{"category": "Housing", "item": "Repairs", "amount": 10301.96, "date": "2025-08-28"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 18342.23, "date": "2025-01-06"}
+{"category": "Healthcare", "item": "Medication", "amount": 26697.51, "date": "2025-11-18"}
+{"category": "Utilities", "item": "Internet", "amount": 16701.01, "date": "2025-04-09"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 27849.39, "date": "2025-02-04"}
+{"category": "Shopping", "item": "Groceries", "amount": 14603.25, "date": "2025-04-11"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 18273.23, "date": "2025-11-25"}
+{"category": "Housing", "item": "Rent", "amount": 3848.21, "date": "2025-09-05"}
+{"category": "Transportation", "item": "Gasoline", "amount": 5191.23, "date": "2025-05-09"}
+{"category": "Transportation", "item": "Maintenance", "amount": 14025.82, "date": "2025-05-03"}
+{"category": "Food", "item": "Fast Food", "amount": 9465.03, "date": "2025-08-08"}
+{"category": "Transportation", "item": "Taxi", "amount": 26769.61, "date": "2025-04-06"}
+{"category": "Entertainment", "item": "Streaming", "amount": 29379.49, "date": "2025-12-29"}
+{"category": "Transportation", "item": "Taxi", "amount": 11869.37, "date": "2025-04-05"}
+{"category": "Personal", "item": "Clothing", "amount": 15571.22, "date": "2025-01-05"}
+{"category": "Utilities", "item": "Electricity", "amount": 19460.96, "date": "2025-06-10"}
+{"category": "Personal", "item": "Haircut", "amount": 17532.17, "date": "2025-09-08"}
+{"category": "Entertainment", "item": "Movies", "amount": 9824.22, "date": "2025-02-14"}
+{"category": "Food", "item": "Restaurant", "amount": 19986.72, "date": "2025-02-19"}
+{"category": "Entertainment", "item": "Games", "amount": 25185.64, "date": "2025-08-19"}
+{"category": "Shopping", "item": "Clothing", "amount": 17525.16, "date": "2025-01-01"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 15186.16, "date": "2025-06-09"}
+{"category": "Shopping", "item": "Electronics", "amount": 27316.4, "date": "2025-06-03"}
+{"category": "Food", "item": "Fast Food", "amount": 19454.51, "date": "2025-07-15"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 25924.9, "date": "2025-05-06"}
+{"category": "Shopping", "item": "Electronics", "amount": 23216.98, "date": "2025-10-31"}
+{"category": "Entertainment", "item": "Concerts", "amount": 19317.98, "date": "2025-02-08"}
+{"category": "Entertainment", "item": "Games", "amount": 18840.07, "date": "2025-11-09"}
+{"category": "Food", "item": "Restaurant", "amount": 26096.96, "date": "2025-03-27"}
+{"category": "Transportation", "item": "Taxi", "amount": 20105.91, "date": "2025-05-29"}
+{"category": "Housing", "item": "Furniture", "amount": 11523.01, "date": "2025-07-23"}
+{"category": "Housing", "item": "Repairs", "amount": 9481.43, "date": "2025-05-16"}
+{"category": "Healthcare", "item": "Medication", "amount": 26771.63, "date": "2025-07-03"}
+{"category": "Housing", "item": "Repairs", "amount": 24369.39, "date": "2025-08-06"}
+{"category": "Entertainment", "item": "Concerts", "amount": 27927.22, "date": "2025-12-20"}
+{"category": "Transportation", "item": "Parking", "amount": 24872.98, "date": "2025-04-13"}
+{"category": "Personal", "item": "Gym", "amount": 5511.37, "date": "2025-07-15"}
+{"category": "Healthcare", "item": "Insurance", "amount": 21244.42, "date": "2025-07-09"}
+{"category": "Shopping", "item": "Electronics", "amount": 23084.89, "date": "2025-02-14"}
+{"category": "Entertainment", "item": "Concerts", "amount": 29799.15, "date": "2025-02-07"}
+{"category": "Transportation", "item": "Parking", "amount": 12631.66, "date": "2025-03-24"}
+{"category": "Shopping", "item": "Groceries", "amount": 11583.16, "date": "2025-11-10"}
+{"category": "Shopping", "item": "Electronics", "amount": 15109.68, "date": "2025-10-23"}
+{"category": "Food", "item": "Groceries", "amount": 1873.05, "date": "2025-10-10"}
+{"category": "Shopping", "item": "Groceries", "amount": 15301.07, "date": "2025-11-19"}
+{"category": "Shopping", "item": "Groceries", "amount": 13899.3, "date": "2025-03-13"}
+{"category": "Food", "item": "Groceries", "amount": 4759.76, "date": "2025-08-25"}
+{"category": "Transportation", "item": "Maintenance", "amount": 3496.07, "date": "2025-07-02"}
+{"category": "Housing", "item": "Repairs", "amount": 20287.71, "date": "2025-11-04"}
+{"category": "Housing", "item": "Maintenance", "amount": 14158.21, "date": "2025-02-18"}
+{"category": "Transportation", "item": "Gasoline", "amount": 5557.21, "date": "2025-04-18"}
+{"category": "Transportation", "item": "Taxi", "amount": 10825.97, "date": "2025-03-02"}
+{"category": "Utilities", "item": "Gas", "amount": 1917.58, "date": "2025-02-07"}
+{"category": "Utilities", "item": "Electricity", "amount": 17146.8, "date": "2025-05-19"}
+{"category": "Utilities", "item": "Internet", "amount": 19816.63, "date": "2025-03-17"}
+{"category": "Transportation", "item": "Gasoline", "amount": 1925.46, "date": "2025-11-24"}
+{"category": "Entertainment", "item": "Concerts", "amount": 12098.23, "date": "2025-03-16"}
+{"category": "Utilities", "item": "Electricity", "amount": 24882.17, "date": "2025-08-27"}
+{"category": "Transportation", "item": "Gasoline", "amount": 944.92, "date": "2025-04-19"}
+{"category": "Shopping", "item": "Accessories", "amount": 10410.0, "date": "2025-06-25"}
+{"category": "Personal", "item": "Donations", "amount": 21861.25, "date": "2025-04-01"}
+{"category": "Healthcare", "item": "Insurance", "amount": 22584.76, "date": "2025-03-30"}
+{"category": "Utilities", "item": "Water Bill", "amount": 25708.36, "date": "2025-03-04"}
+{"category": "Food", "item": "Takeout", "amount": 10317.47, "date": "2025-03-28"}
+{"category": "Healthcare", "item": "Medication", "amount": 12535.39, "date": "2025-07-30"}
+{"category": "Shopping", "item": "Groceries", "amount": 12812.65, "date": "2025-02-14"}
+{"category": "Food", "item": "Takeout", "amount": 12367.08, "date": "2025-08-13"}
+{"category": "Personal", "item": "Donations", "amount": 14957.18, "date": "2025-10-10"}
+{"category": "Entertainment", "item": "Books", "amount": 24336.28, "date": "2025-02-08"}
+{"category": "Personal", "item": "Donations", "amount": 18692.84, "date": "2025-01-30"}
+{"category": "Healthcare", "item": "Insurance", "amount": 26886.31, "date": "2025-03-09"}
+{"category": "Entertainment", "item": "Books", "amount": 23486.59, "date": "2025-03-24"}
+{"category": "Personal", "item": "Gifts", "amount": 9531.43, "date": "2025-06-25"}
+{"category": "Utilities", "item": "Gas", "amount": 13678.12, "date": "2025-11-02"}
+{"category": "Utilities", "item": "Gas", "amount": 20849.01, "date": "2025-12-17"}
+{"category": "Housing", "item": "Mortgage", "amount": 5546.48, "date": "2025-04-10"}
+{"category": "Personal", "item": "Gym", "amount": 6040.54, "date": "2025-02-03"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 4543.42, "date": "2025-03-05"}
+{"category": "Housing", "item": "Mortgage", "amount": 28973.1, "date": "2025-12-01"}
+{"category": "Food", "item": "Coffee", "amount": 22479.86, "date": "2025-04-04"}
+{"category": "Housing", "item": "Maintenance", "amount": 4229.44, "date": "2025-10-07"}
+{"category": "Food", "item": "Restaurant", "amount": 18820.41, "date": "2025-01-21"}
+{"category": "Food", "item": "Fast Food", "amount": 21396.35, "date": "2025-05-17"}
+{"category": "Food", "item": "Restaurant", "amount": 11841.17, "date": "2025-04-15"}
+{"category": "Personal", "item": "Haircut", "amount": 11950.11, "date": "2025-08-18"}
+{"category": "Food", "item": "Groceries", "amount": 5760.34, "date": "2025-09-04"}
+{"category": "Food", "item": "Groceries", "amount": 29665.02, "date": "2025-07-16"}
+{"category": "Utilities", "item": "Internet", "amount": 15779.95, "date": "2025-01-22"}
+{"category": "Transportation", "item": "Gasoline", "amount": 19120.3, "date": "2025-12-25"}
+{"category": "Transportation", "item": "Taxi", "amount": 24242.67, "date": "2025-01-09"}
+{"category": "Shopping", "item": "Clothing", "amount": 19236.04, "date": "2025-01-09"}
+{"category": "Personal", "item": "Haircut", "amount": 7804.09, "date": "2025-01-14"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 8301.74, "date": "2025-09-13"}
+{"category": "Housing", "item": "Maintenance", "amount": 3821.47, "date": "2025-02-20"}
+{"category": "Transportation", "item": "Gasoline", "amount": 16711.61, "date": "2025-03-18"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 3964.33, "date": "2025-09-20"}
+{"category": "Shopping", "item": "Electronics", "amount": 17730.26, "date": "2025-04-04"}
+{"category": "Entertainment", "item": "Movies", "amount": 5515.36, "date": "2025-10-30"}
+{"category": "Personal", "item": "Donations", "amount": 17088.63, "date": "2025-06-03"}
+{"category": "Transportation", "item": "Gasoline", "amount": 16176.91, "date": "2025-11-20"}
+{"category": "Food", "item": "Fast Food", "amount": 24869.09, "date": "2025-11-15"}
+{"category": "Transportation", "item": "Taxi", "amount": 23415.24, "date": "2025-12-15"}
+{"category": "Entertainment", "item": "Concerts", "amount": 20286.8, "date": "2025-01-17"}
+{"category": "Transportation", "item": "Maintenance", "amount": 5036.43, "date": "2025-07-04"}
+{"category": "Shopping", "item": "Clothing", "amount": 1359.91, "date": "2025-11-02"}
+{"category": "Transportation", "item": "Gasoline", "amount": 24278.96, "date": "2025-06-09"}
+{"category": "Transportation", "item": "Gasoline", "amount": 24452.97, "date": "2025-07-24"}
+{"category": "Utilities", "item": "Gas", "amount": 6583.08, "date": "2025-07-19"}
+{"category": "Healthcare", "item": "Optometry", "amount": 27119.95, "date": "2025-04-28"}
+{"category": "Housing", "item": "Mortgage", "amount": 14390.69, "date": "2025-07-06"}
+{"category": "Transportation", "item": "Parking", "amount": 15904.2, "date": "2025-09-03"}
+{"category": "Shopping", "item": "Accessories", "amount": 12251.29, "date": "2025-10-08"}
+{"category": "Food", "item": "Restaurant", "amount": 21550.66, "date": "2025-11-13"}
+{"category": "Utilities", "item": "Gas", "amount": 23801.64, "date": "2025-05-15"}
+{"category": "Utilities", "item": "Gas", "amount": 3350.54, "date": "2025-11-23"}
+{"category": "Utilities", "item": "Water Bill", "amount": 21298.94, "date": "2025-11-15"}
+{"category": "Utilities", "item": "Gas", "amount": 24180.81, "date": "2025-06-23"}
+{"category": "Transportation", "item": "Maintenance", "amount": 17437.9, "date": "2025-02-05"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 2651.39, "date": "2025-06-20"}
+{"category": "Shopping", "item": "Electronics", "amount": 27916.16, "date": "2025-02-12"}
+{"category": "Housing", "item": "Repairs", "amount": 19201.79, "date": "2025-10-14"}
+{"category": "Utilities", "item": "Gas", "amount": 10968.13, "date": "2025-08-05"}
+{"category": "Housing", "item": "Repairs", "amount": 17321.66, "date": "2025-01-08"}
+{"category": "Utilities", "item": "Internet", "amount": 5273.73, "date": "2025-04-23"}
+{"category": "Food", "item": "Groceries", "amount": 2009.03, "date": "2025-11-08"}
+{"category": "Utilities", "item": "Gas", "amount": 13061.47, "date": "2025-09-13"}
+{"category": "Transportation", "item": "Gasoline", "amount": 5755.7, "date": "2025-08-04"}
+{"category": "Entertainment", "item": "Streaming", "amount": 9156.02, "date": "2025-08-22"}
+{"category": "Housing", "item": "Repairs", "amount": 24598.15, "date": "2025-04-02"}
+{"category": "Transportation", "item": "Public Transport", "amount": 17386.71, "date": "2025-09-16"}
+{"category": "Personal", "item": "Haircut", "amount": 26085.36, "date": "2025-04-07"}
+{"category": "Housing", "item": "Maintenance", "amount": 22510.43, "date": "2025-08-01"}
+{"category": "Utilities", "item": "Gas", "amount": 17453.32, "date": "2025-07-02"}
+{"category": "Utilities", "item": "Gas", "amount": 7212.88, "date": "2025-12-12"}
+{"category": "Personal", "item": "Donations", "amount": 24874.34, "date": "2025-12-16"}
+{"category": "Healthcare", "item": "Insurance", "amount": 7825.28, "date": "2025-06-13"}
+{"category": "Personal", "item": "Gym", "amount": 21336.58, "date": "2025-10-21"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 6587.69, "date": "2025-12-03"}
+{"category": "Shopping", "item": "Clothing", "amount": 891.99, "date": "2025-12-30"}
+{"category": "Shopping", "item": "Groceries", "amount": 17177.42, "date": "2025-01-04"}
+{"category": "Entertainment", "item": "Games", "amount": 13495.72, "date": "2025-11-09"}
+{"category": "Transportation", "item": "Taxi", "amount": 11867.16, "date": "2025-02-12"}
+{"category": "Transportation", "item": "Taxi", "amount": 5067.57, "date": "2025-07-18"}
+{"category": "Shopping", "item": "Groceries", "amount": 16322.18, "date": "2025-12-05"}
+{"category": "Shopping", "item": "Groceries", "amount": 25518.77, "date": "2025-08-08"}
+{"category": "Utilities", "item": "Internet", "amount": 3305.06, "date": "2025-07-12"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 14496.54, "date": "2025-08-29"}
+{"category": "Shopping", "item": "Clothing", "amount": 23162.57, "date": "2025-12-24"}
+{"category": "Shopping", "item": "Accessories", "amount": 7345.34, "date": "2025-12-26"}
+{"category": "Healthcare", "item": "Medication", "amount": 17022.18, "date": "2025-11-05"}
+{"category": "Entertainment", "item": "Movies", "amount": 11606.61, "date": "2025-01-08"}
+{"category": "Transportation", "item": "Gasoline", "amount": 9962.24, "date": "2025-09-04"}
+{"category": "Healthcare", "item": "Optometry", "amount": 29759.54, "date": "2025-12-27"}
+{"category": "Utilities", "item": "Water Bill", "amount": 25265.51, "date": "2025-01-31"}
+{"category": "Personal", "item": "Gym", "amount": 15161.43, "date": "2025-11-01"}
+{"category": "Shopping", "item": "Clothing", "amount": 19836.3, "date": "2025-12-12"}
+{"category": "Food", "item": "Takeout", "amount": 19370.62, "date": "2025-06-15"}
+{"category": "Transportation", "item": "Gasoline", "amount": 16811.55, "date": "2025-06-10"}
+{"category": "Entertainment", "item": "Streaming", "amount": 27736.86, "date": "2025-05-11"}
+{"category": "Shopping", "item": "Groceries", "amount": 17072.45, "date": "2025-11-27"}
+{"category": "Shopping", "item": "Groceries", "amount": 5243.21, "date": "2025-07-18"}
+{"category": "Shopping", "item": "Electronics", "amount": 18499.41, "date": "2025-07-22"}
+{"category": "Transportation", "item": "Gasoline", "amount": 27986.33, "date": "2025-10-18"}
+{"category": "Food", "item": "Coffee", "amount": 8237.84, "date": "2025-06-29"}
+{"category": "Transportation", "item": "Public Transport", "amount": 15506.34, "date": "2025-04-06"}
+{"category": "Utilities", "item": "Internet", "amount": 18425.3, "date": "2025-11-03"}
+{"category": "Personal", "item": "Haircut", "amount": 9277.35, "date": "2025-09-19"}
+{"category": "Healthcare", "item": "Dental", "amount": 4654.2, "date": "2025-08-16"}
+{"category": "Healthcare", "item": "Insurance", "amount": 10580.67, "date": "2025-01-31"}
+{"category": "Utilities", "item": "Internet", "amount": 29094.91, "date": "2025-12-17"}
+{"category": "Personal", "item": "Haircut", "amount": 18207.94, "date": "2025-12-13"}
+{"category": "Transportation", "item": "Taxi", "amount": 4717.98, "date": "2025-12-19"}
+{"category": "Transportation", "item": "Public Transport", "amount": 19944.24, "date": "2025-01-26"}
+{"category": "Healthcare", "item": "Insurance", "amount": 23845.92, "date": "2025-10-27"}
+{"category": "Personal", "item": "Clothing", "amount": 27747.56, "date": "2025-09-27"}
+{"category": "Shopping", "item": "Clothing", "amount": 18249.62, "date": "2025-04-08"}
+{"category": "Food", "item": "Restaurant", "amount": 15034.43, "date": "2025-11-28"}
+{"category": "Shopping", "item": "Groceries", "amount": 22566.43, "date": "2025-10-19"}
+{"category": "Housing", "item": "Mortgage", "amount": 11120.68, "date": "2025-05-31"}
+{"category": "Food", "item": "Fast Food", "amount": 16510.04, "date": "2025-09-13"}
+{"category": "Transportation", "item": "Maintenance", "amount": 22093.62, "date": "2025-01-05"}
+{"category": "Food", "item": "Groceries", "amount": 3752.78, "date": "2025-01-21"}
+{"category": "Food", "item": "Coffee", "amount": 24258.02, "date": "2025-03-09"}
+{"category": "Shopping", "item": "Accessories", "amount": 29521.75, "date": "2025-08-15"}
+{"category": "Personal", "item": "Gym", "amount": 17530.92, "date": "2025-04-12"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 680.2, "date": "2025-04-17"}
+{"category": "Entertainment", "item": "Concerts", "amount": 27793.45, "date": "2025-02-28"}
+{"category": "Utilities", "item": "Water Bill", "amount": 9344.01, "date": "2025-03-14"}
+{"category": "Shopping", "item": "Groceries", "amount": 12469.15, "date": "2025-12-30"}
+{"category": "Housing", "item": "Rent", "amount": 17201.8, "date": "2025-07-12"}
+{"category": "Entertainment", "item": "Books", "amount": 26216.03, "date": "2025-01-16"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 15077.84, "date": "2025-01-19"}
+{"category": "Housing", "item": "Mortgage", "amount": 25109.96, "date": "2025-04-09"}
+{"category": "Healthcare", "item": "Medication", "amount": 21644.58, "date": "2025-02-23"}
+{"category": "Shopping", "item": "Groceries", "amount": 27477.95, "date": "2025-11-08"}
+{"category": "Personal", "item": "Gym", "amount": 7753.17, "date": "2025-01-26"}
+{"category": "Food", "item": "Groceries", "amount": 17231.52, "date": "2025-05-29"}
+{"category": "Shopping", "item": "Accessories", "amount": 28416.48, "date": "2025-10-03"}
+{"category": "Transportation", "item": "Maintenance", "amount": 24599.63, "date": "2025-12-25"}
+{"category": "Entertainment", "item": "Books", "amount": 16752.79, "date": "2025-12-16"}
+{"category": "Food", "item": "Takeout", "amount": 13925.87, "date": "2025-12-26"}
+{"category": "Food", "item": "Coffee", "amount": 18848.62, "date": "2025-05-19"}
+{"category": "Entertainment", "item": "Games", "amount": 10046.96, "date": "2025-03-13"}
+{"category": "Shopping", "item": "Accessories", "amount": 26420.78, "date": "2025-09-01"}
+{"category": "Personal", "item": "Donations", "amount": 4800.74, "date": "2025-12-11"}
+{"category": "Healthcare", "item": "Medication", "amount": 10841.96, "date": "2025-07-26"}
+{"category": "Transportation", "item": "Taxi", "amount": 25346.59, "date": "2025-12-15"}
+{"category": "Utilities", "item": "Water Bill", "amount": 23639.9, "date": "2025-03-01"}
+{"category": "Food", "item": "Groceries", "amount": 7892.83, "date": "2025-01-21"}
+{"category": "Entertainment", "item": "Games", "amount": 9261.99, "date": "2025-07-29"}
+{"category": "Transportation", "item": "Parking", "amount": 15842.67, "date": "2025-09-19"}
+{"category": "Food", "item": "Takeout", "amount": 6170.97, "date": "2025-04-30"}
+{"category": "Utilities", "item": "Internet", "amount": 10586.15, "date": "2025-10-01"}
+{"category": "Food", "item": "Takeout", "amount": 7749.71, "date": "2025-03-10"}
+{"category": "Personal", "item": "Donations", "amount": 29501.34, "date": "2025-01-01"}
+{"category": "Utilities", "item": "Electricity", "amount": 10267.84, "date": "2025-06-08"}
+{"category": "Healthcare", "item": "Dental", "amount": 6380.96, "date": "2025-01-22"}
+{"category": "Food", "item": "Restaurant", "amount": 15021.1, "date": "2025-11-15"}
+{"category": "Healthcare", "item": "Optometry", "amount": 7403.06, "date": "2025-11-15"}
+{"category": "Food", "item": "Fast Food", "amount": 1218.11, "date": "2025-09-06"}
+{"category": "Shopping", "item": "Groceries", "amount": 7187.59, "date": "2025-04-20"}
+{"category": "Healthcare", "item": "Medication", "amount": 5057.3, "date": "2025-11-19"}
+{"category": "Entertainment", "item": "Books", "amount": 7685.81, "date": "2025-05-28"}
+{"category": "Entertainment", "item": "Movies", "amount": 26188.83, "date": "2025-02-09"}
+{"category": "Healthcare", "item": "Dental", "amount": 9190.83, "date": "2025-02-13"}
+{"category": "Healthcare", "item": "Insurance", "amount": 13653.72, "date": "2025-02-22"}
+{"category": "Transportation", "item": "Public Transport", "amount": 28010.29, "date": "2025-07-02"}
+{"category": "Personal", "item": "Gym", "amount": 12699.9, "date": "2025-02-23"}
+{"category": "Entertainment", "item": "Concerts", "amount": 19727.21, "date": "2025-02-26"}
+{"category": "Personal", "item": "Clothing", "amount": 23752.07, "date": "2025-01-17"}
+{"category": "Housing", "item": "Furniture", "amount": 14701.58, "date": "2025-03-14"}
+{"category": "Entertainment", "item": "Concerts", "amount": 24386.78, "date": "2025-11-01"}
+{"category": "Entertainment", "item": "Movies", "amount": 6008.56, "date": "2025-10-17"}
+{"category": "Utilities", "item": "Gas", "amount": 29817.93, "date": "2025-10-08"}
+{"category": "Personal", "item": "Haircut", "amount": 26814.79, "date": "2025-11-23"}
+{"category": "Personal", "item": "Haircut", "amount": 23895.41, "date": "2025-06-22"}
+{"category": "Housing", "item": "Repairs", "amount": 3688.6, "date": "2025-11-22"}
+{"category": "Food", "item": "Fast Food", "amount": 22142.51, "date": "2025-09-25"}
+{"category": "Personal", "item": "Haircut", "amount": 19542.34, "date": "2025-05-28"}
+{"category": "Healthcare", "item": "Insurance", "amount": 1605.88, "date": "2025-10-21"}
+{"category": "Shopping", "item": "Groceries", "amount": 5469.36, "date": "2025-09-07"}
+{"category": "Transportation", "item": "Gasoline", "amount": 22391.25, "date": "2025-05-20"}
+{"category": "Shopping", "item": "Accessories", "amount": 6656.34, "date": "2025-12-15"}
+{"category": "Housing", "item": "Rent", "amount": 26911.93, "date": "2025-04-10"}
+{"category": "Housing", "item": "Rent", "amount": 1252.76, "date": "2025-11-05"}
+{"category": "Housing", "item": "Repairs", "amount": 7174.24, "date": "2025-05-22"}
+{"category": "Transportation", "item": "Parking", "amount": 9514.9, "date": "2025-05-22"}
+{"category": "Food", "item": "Groceries", "amount": 650.32, "date": "2025-02-20"}
+{"category": "Transportation", "item": "Parking", "amount": 521.55, "date": "2025-04-12"}
+{"category": "Utilities", "item": "Internet", "amount": 17908.01, "date": "2025-03-08"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 1126.19, "date": "2025-02-25"}
+{"category": "Utilities", "item": "Water Bill", "amount": 23644.48, "date": "2025-02-19"}
+{"category": "Food", "item": "Restaurant", "amount": 13679.23, "date": "2025-10-05"}
+{"category": "Personal", "item": "Haircut", "amount": 26435.95, "date": "2025-03-22"}
+{"category": "Food", "item": "Fast Food", "amount": 9772.46, "date": "2025-11-13"}
+{"category": "Utilities", "item": "Water Bill", "amount": 5071.8, "date": "2025-10-03"}
+{"category": "Transportation", "item": "Maintenance", "amount": 16688.84, "date": "2025-07-15"}
+{"category": "Food", "item": "Coffee", "amount": 4990.7, "date": "2025-02-28"}
+{"category": "Utilities", "item": "Internet", "amount": 22265.87, "date": "2025-02-21"}
+{"category": "Transportation", "item": "Gasoline", "amount": 10782.92, "date": "2025-08-15"}
+{"category": "Housing", "item": "Maintenance", "amount": 27297.28, "date": "2025-08-18"}
+{"category": "Shopping", "item": "Clothing", "amount": 11373.77, "date": "2025-04-12"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 24020.04, "date": "2025-07-15"}
+{"category": "Housing", "item": "Maintenance", "amount": 26987.77, "date": "2025-10-23"}
+{"category": "Healthcare", "item": "Insurance", "amount": 16834.42, "date": "2025-05-10"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 9145.64, "date": "2025-12-21"}
+{"category": "Shopping", "item": "Electronics", "amount": 21357.7, "date": "2025-03-05"}
+{"category": "Food", "item": "Restaurant", "amount": 6462.24, "date": "2025-01-07"}
+{"category": "Food", "item": "Groceries", "amount": 9213.61, "date": "2025-05-07"}
+{"category": "Utilities", "item": "Internet", "amount": 13751.94, "date": "2025-06-27"}
+{"category": "Personal", "item": "Clothing", "amount": 23840.64, "date": "2025-06-13"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 1728.4, "date": "2025-03-08"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 5229.62, "date": "2025-06-18"}
+{"category": "Entertainment", "item": "Concerts", "amount": 23093.43, "date": "2025-11-03"}
+{"category": "Shopping", "item": "Accessories", "amount": 10031.78, "date": "2025-04-05"}
+{"category": "Transportation", "item": "Taxi", "amount": 8961.04, "date": "2025-03-07"}
+{"category": "Food", "item": "Groceries", "amount": 15394.05, "date": "2025-02-11"}
+{"category": "Personal", "item": "Haircut", "amount": 3385.0, "date": "2025-08-02"}
+{"category": "Personal", "item": "Donations", "amount": 27256.86, "date": "2025-10-06"}
+{"category": "Utilities", "item": "Water Bill", "amount": 6660.49, "date": "2025-11-24"}
+{"category": "Healthcare", "item": "Medication", "amount": 8077.33, "date": "2025-07-17"}
+{"category": "Food", "item": "Takeout", "amount": 22253.91, "date": "2025-01-06"}
+{"category": "Healthcare", "item": "Insurance", "amount": 5866.36, "date": "2025-03-05"}
+{"category": "Food", "item": "Groceries", "amount": 9435.56, "date": "2025-11-30"}
+{"category": "Entertainment", "item": "Movies", "amount": 26559.74, "date": "2025-01-22"}
+{"category": "Transportation", "item": "Taxi", "amount": 24835.39, "date": "2025-04-05"}
+{"category": "Healthcare", "item": "Insurance", "amount": 27439.41, "date": "2025-12-25"}
+{"category": "Personal", "item": "Donations", "amount": 24999.75, "date": "2025-03-22"}
+{"category": "Transportation", "item": "Maintenance", "amount": 26448.42, "date": "2025-11-10"}
+{"category": "Housing", "item": "Maintenance", "amount": 6789.99, "date": "2025-05-29"}
+{"category": "Shopping", "item": "Accessories", "amount": 18216.61, "date": "2025-03-16"}
+{"category": "Shopping", "item": "Groceries", "amount": 11339.89, "date": "2025-10-27"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 10602.74, "date": "2025-10-20"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 9643.51, "date": "2025-01-16"}
+{"category": "Housing", "item": "Furniture", "amount": 14232.89, "date": "2025-11-04"}
+{"category": "Shopping", "item": "Electronics", "amount": 11484.59, "date": "2025-10-20"}
+{"category": "Housing", "item": "Furniture", "amount": 20923.1, "date": "2025-09-24"}
+{"category": "Entertainment", "item": "Streaming", "amount": 17177.0, "date": "2025-03-26"}
+{"category": "Food", "item": "Fast Food", "amount": 4212.14, "date": "2025-10-16"}
+{"category": "Utilities", "item": "Gas", "amount": 15463.76, "date": "2025-04-30"}
+{"category": "Utilities", "item": "Internet", "amount": 4213.34, "date": "2025-06-16"}
+{"category": "Housing", "item": "Furniture", "amount": 16150.54, "date": "2025-04-01"}
+{"category": "Entertainment", "item": "Books", "amount": 23790.51, "date": "2025-07-25"}
+{"category": "Shopping", "item": "Groceries", "amount": 4755.4, "date": "2025-12-16"}
+{"category": "Entertainment", "item": "Streaming", "amount": 3216.87, "date": "2025-03-10"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 4980.11, "date": "2025-03-02"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 2692.95, "date": "2025-05-04"}
+{"category": "Food", "item": "Fast Food", "amount": 3785.0, "date": "2025-10-23"}
+{"category": "Food", "item": "Groceries", "amount": 19603.3, "date": "2025-07-16"}
+{"category": "Utilities", "item": "Electricity", "amount": 22524.06, "date": "2025-08-17"}
+{"category": "Personal", "item": "Gifts", "amount": 15104.89, "date": "2025-08-28"}
+{"category": "Healthcare", "item": "Medication", "amount": 12476.76, "date": "2025-06-14"}
+{"category": "Food", "item": "Coffee", "amount": 29516.47, "date": "2025-01-09"}
+{"category": "Housing", "item": "Repairs", "amount": 29358.16, "date": "2025-02-21"}
+{"category": "Entertainment", "item": "Games", "amount": 5004.55, "date": "2025-05-25"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 845.43, "date": "2025-12-23"}
+{"category": "Entertainment", "item": "Streaming", "amount": 17606.42, "date": "2025-09-11"}
+{"category": "Healthcare", "item": "Optometry", "amount": 825.39, "date": "2025-03-30"}
+{"category": "Transportation", "item": "Gasoline", "amount": 17956.21, "date": "2025-05-16"}
+{"category": "Healthcare", "item": "Dental", "amount": 17673.87, "date": "2025-06-14"}
+{"category": "Healthcare", "item": "Medication", "amount": 10726.55, "date": "2025-11-17"}
+{"category": "Transportation", "item": "Parking", "amount": 11410.54, "date": "2025-03-18"}
+{"category": "Personal", "item": "Gifts", "amount": 21508.62, "date": "2025-12-09"}
+{"category": "Personal", "item": "Haircut", "amount": 20725.91, "date": "2025-08-27"}
+{"category": "Shopping", "item": "Groceries", "amount": 9536.74, "date": "2025-08-17"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 3839.62, "date": "2025-04-25"}
+{"category": "Personal", "item": "Donations", "amount": 3216.86, "date": "2025-10-30"}
+{"category": "Entertainment", "item": "Games", "amount": 6557.43, "date": "2025-11-06"}
+{"category": "Housing", "item": "Rent", "amount": 24246.99, "date": "2025-11-22"}
+{"category": "Food", "item": "Restaurant", "amount": 2702.63, "date": "2025-08-26"}
+{"category": "Transportation", "item": "Taxi", "amount": 15751.65, "date": "2025-01-12"}
+{"category": "Personal", "item": "Donations", "amount": 867.36, "date": "2025-02-18"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 12083.66, "date": "2025-05-25"}
+{"category": "Shopping", "item": "Groceries", "amount": 16888.51, "date": "2025-08-31"}
+{"category": "Transportation", "item": "Parking", "amount": 21324.89, "date": "2025-10-16"}
+{"category": "Food", "item": "Restaurant", "amount": 27130.71, "date": "2025-12-18"}
+{"category": "Personal", "item": "Gym", "amount": 27323.71, "date": "2025-02-06"}
+{"category": "Personal", "item": "Gifts", "amount": 26355.5, "date": "2025-04-13"}
+{"category": "Transportation", "item": "Parking", "amount": 3977.6, "date": "2025-09-22"}
+{"category": "Transportation", "item": "Gasoline", "amount": 24890.2, "date": "2025-02-20"}
+{"category": "Entertainment", "item": "Streaming", "amount": 26319.02, "date": "2025-01-01"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 10458.6, "date": "2025-12-18"}
+{"category": "Utilities", "item": "Gas", "amount": 12397.29, "date": "2025-06-10"}
+{"category": "Shopping", "item": "Electronics", "amount": 19842.76, "date": "2025-01-07"}
+{"category": "Food", "item": "Coffee", "amount": 20738.15, "date": "2025-01-14"}
+{"category": "Food", "item": "Takeout", "amount": 17800.98, "date": "2025-12-14"}
+{"category": "Food", "item": "Fast Food", "amount": 8504.67, "date": "2025-05-06"}
+{"category": "Healthcare", "item": "Insurance", "amount": 29528.37, "date": "2025-05-01"}
+{"category": "Food", "item": "Coffee", "amount": 27411.01, "date": "2025-09-04"}
+{"category": "Housing", "item": "Maintenance", "amount": 20744.81, "date": "2025-08-26"}
+{"category": "Personal", "item": "Clothing", "amount": 27849.56, "date": "2025-03-19"}
+{"category": "Utilities", "item": "Gas", "amount": 2566.78, "date": "2025-07-31"}
+{"category": "Shopping", "item": "Clothing", "amount": 10581.7, "date": "2025-07-14"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 4100.98, "date": "2025-02-07"}
+{"category": "Transportation", "item": "Public Transport", "amount": 9420.71, "date": "2025-08-23"}
+{"category": "Personal", "item": "Donations", "amount": 26812.43, "date": "2025-06-01"}
+{"category": "Housing", "item": "Mortgage", "amount": 6422.24, "date": "2025-05-26"}
+{"category": "Food", "item": "Coffee", "amount": 24818.26, "date": "2025-11-07"}
+{"category": "Entertainment", "item": "Games", "amount": 28649.68, "date": "2025-02-21"}
+{"category": "Entertainment", "item": "Books", "amount": 19308.4, "date": "2025-08-22"}
+{"category": "Transportation", "item": "Taxi", "amount": 9840.04, "date": "2025-10-19"}
+{"category": "Housing", "item": "Furniture", "amount": 11782.49, "date": "2025-10-15"}
+{"category": "Shopping", "item": "Groceries", "amount": 25265.36, "date": "2025-11-10"}
+{"category": "Transportation", "item": "Taxi", "amount": 25574.18, "date": "2025-07-23"}
+{"category": "Personal", "item": "Donations", "amount": 11642.08, "date": "2025-03-22"}
+{"category": "Transportation", "item": "Parking", "amount": 14155.85, "date": "2025-07-08"}
+{"category": "Entertainment", "item": "Concerts", "amount": 28314.33, "date": "2025-03-06"}
+{"category": "Housing", "item": "Rent", "amount": 6257.27, "date": "2025-02-18"}
+{"category": "Utilities", "item": "Internet", "amount": 16723.61, "date": "2025-05-25"}
+{"category": "Healthcare", "item": "Dental", "amount": 4502.31, "date": "2025-03-04"}
+{"category": "Housing", "item": "Maintenance", "amount": 24847.34, "date": "2025-06-07"}
+{"category": "Transportation", "item": "Taxi", "amount": 18568.26, "date": "2025-07-10"}
+{"category": "Transportation", "item": "Public Transport", "amount": 26721.78, "date": "2025-03-05"}
+{"category": "Healthcare", "item": "Medication", "amount": 2276.41, "date": "2025-10-14"}
+{"category": "Food", "item": "Takeout", "amount": 24078.08, "date": "2025-10-09"}
+{"category": "Transportation", "item": "Parking", "amount": 2119.33, "date": "2025-08-12"}
+{"category": "Utilities", "item": "Electricity", "amount": 7243.58, "date": "2025-03-02"}
+{"category": "Personal", "item": "Gifts", "amount": 8689.59, "date": "2025-07-14"}
+{"category": "Entertainment", "item": "Concerts", "amount": 1673.17, "date": "2025-05-21"}
+{"category": "Personal", "item": "Gifts", "amount": 9808.41, "date": "2025-03-22"}
+{"category": "Entertainment", "item": "Books", "amount": 17024.22, "date": "2025-06-15"}
+{"category": "Food", "item": "Restaurant", "amount": 2553.41, "date": "2025-09-15"}
+{"category": "Housing", "item": "Rent", "amount": 8039.82, "date": "2025-09-23"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 2400.11, "date": "2025-07-13"}
+{"category": "Housing", "item": "Mortgage", "amount": 20126.58, "date": "2025-09-30"}
+{"category": "Entertainment", "item": "Books", "amount": 7368.59, "date": "2025-11-02"}
+{"category": "Personal", "item": "Haircut", "amount": 27862.28, "date": "2025-05-11"}
+{"category": "Healthcare", "item": "Insurance", "amount": 5832.43, "date": "2025-01-19"}
+{"category": "Shopping", "item": "Groceries", "amount": 17272.96, "date": "2025-01-16"}
+{"category": "Housing", "item": "Furniture", "amount": 20124.84, "date": "2025-03-07"}
+{"category": "Healthcare", "item": "Medication", "amount": 3081.71, "date": "2025-09-07"}
+{"category": "Food", "item": "Coffee", "amount": 28965.15, "date": "2025-10-28"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 3820.06, "date": "2025-10-28"}
+{"category": "Food", "item": "Takeout", "amount": 8448.62, "date": "2025-03-12"}
+{"category": "Shopping", "item": "Accessories", "amount": 4313.35, "date": "2025-12-23"}
+{"category": "Housing", "item": "Maintenance", "amount": 7778.28, "date": "2025-01-14"}
+{"category": "Personal", "item": "Haircut", "amount": 20278.25, "date": "2025-02-19"}
+{"category": "Transportation", "item": "Parking", "amount": 28232.11, "date": "2025-04-29"}
+{"category": "Personal", "item": "Clothing", "amount": 17489.06, "date": "2025-04-07"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 16401.57, "date": "2025-09-26"}
+{"category": "Utilities", "item": "Gas", "amount": 25407.62, "date": "2025-11-24"}
+{"category": "Transportation", "item": "Gasoline", "amount": 2890.63, "date": "2025-05-18"}
+{"category": "Utilities", "item": "Internet", "amount": 3250.88, "date": "2025-11-10"}
+{"category": "Entertainment", "item": "Movies", "amount": 23566.54, "date": "2025-12-29"}
+{"category": "Shopping", "item": "Accessories", "amount": 24099.69, "date": "2025-03-23"}
+{"category": "Housing", "item": "Rent", "amount": 24695.92, "date": "2025-08-11"}
+{"category": "Transportation", "item": "Public Transport", "amount": 8130.9, "date": "2025-10-13"}
+{"category": "Housing", "item": "Maintenance", "amount": 12467.2, "date": "2025-09-12"}
+{"category": "Entertainment", "item": "Books", "amount": 22796.61, "date": "2025-03-26"}
+{"category": "Entertainment", "item": "Streaming", "amount": 29054.04, "date": "2025-04-23"}
+{"category": "Personal", "item": "Haircut", "amount": 9369.13, "date": "2025-02-04"}
+{"category": "Food", "item": "Takeout", "amount": 17737.11, "date": "2025-08-11"}
+{"category": "Housing", "item": "Furniture", "amount": 6920.9, "date": "2025-11-17"}
+{"category": "Food", "item": "Coffee", "amount": 26863.15, "date": "2025-10-15"}
+{"category": "Entertainment", "item": "Games", "amount": 15289.9, "date": "2025-07-25"}
+{"category": "Housing", "item": "Rent", "amount": 18219.52, "date": "2025-03-30"}
+{"category": "Personal", "item": "Gifts", "amount": 8956.52, "date": "2025-08-10"}
+{"category": "Transportation", "item": "Maintenance", "amount": 23466.71, "date": "2025-09-28"}
+{"category": "Utilities", "item": "Gas", "amount": 19042.64, "date": "2025-05-08"}
+{"category": "Food", "item": "Fast Food", "amount": 10031.9, "date": "2025-01-20"}
+{"category": "Utilities", "item": "Gas", "amount": 10577.21, "date": "2025-12-18"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 26667.3, "date": "2025-11-03"}
+{"category": "Shopping", "item": "Accessories", "amount": 4259.42, "date": "2025-11-19"}
+{"category": "Transportation", "item": "Maintenance", "amount": 18234.1, "date": "2025-08-30"}
+{"category": "Housing", "item": "Repairs", "amount": 3457.53, "date": "2025-11-12"}
+{"category": "Shopping", "item": "Accessories", "amount": 21505.54, "date": "2025-12-26"}
+{"category": "Entertainment", "item": "Concerts", "amount": 25501.6, "date": "2025-10-31"}
+{"category": "Personal", "item": "Gym", "amount": 22100.68, "date": "2025-10-25"}
+{"category": "Food", "item": "Fast Food", "amount": 16747.47, "date": "2025-08-07"}
+{"category": "Transportation", "item": "Parking", "amount": 8690.29, "date": "2025-07-03"}
+{"category": "Healthcare", "item": "Insurance", "amount": 23845.88, "date": "2025-04-09"}
+{"category": "Utilities", "item": "Gas", "amount": 8254.91, "date": "2025-02-20"}
+{"category": "Personal", "item": "Donations", "amount": 23993.85, "date": "2025-10-17"}
+{"category": "Entertainment", "item": "Games", "amount": 12181.32, "date": "2025-12-26"}
+{"category": "Entertainment", "item": "Books", "amount": 11514.57, "date": "2025-05-25"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 16090.35, "date": "2025-12-17"}
+{"category": "Transportation", "item": "Parking", "amount": 15431.82, "date": "2025-12-13"}
+{"category": "Housing", "item": "Furniture", "amount": 13992.1, "date": "2025-10-03"}
+{"category": "Shopping", "item": "Groceries", "amount": 28920.4, "date": "2025-06-21"}
+{"category": "Utilities", "item": "Water Bill", "amount": 25653.48, "date": "2025-03-14"}
+{"category": "Food", "item": "Takeout", "amount": 2446.79, "date": "2025-09-08"}
+{"category": "Healthcare", "item": "Dental", "amount": 20300.24, "date": "2025-03-13"}
+{"category": "Healthcare", "item": "Dental", "amount": 1458.39, "date": "2025-10-21"}
+{"category": "Entertainment", "item": "Movies", "amount": 7116.62, "date": "2025-11-09"}
+{"category": "Food", "item": "Takeout", "amount": 6880.55, "date": "2025-09-02"}
+{"category": "Food", "item": "Takeout", "amount": 4352.96, "date": "2025-08-26"}
+{"category": "Transportation", "item": "Public Transport", "amount": 28057.56, "date": "2025-03-31"}
+{"category": "Housing", "item": "Rent", "amount": 11373.2, "date": "2025-02-12"}
+{"category": "Personal", "item": "Clothing", "amount": 15787.81, "date": "2025-07-07"}
+{"category": "Entertainment", "item": "Concerts", "amount": 21115.74, "date": "2025-07-20"}
+{"category": "Food", "item": "Restaurant", "amount": 18443.02, "date": "2025-07-19"}
+{"category": "Healthcare", "item": "Optometry", "amount": 26146.86, "date": "2025-02-06"}
+{"category": "Transportation", "item": "Maintenance", "amount": 12067.76, "date": "2025-06-25"}
+{"category": "Transportation", "item": "Parking", "amount": 7638.97, "date": "2025-07-29"}
+{"category": "Shopping", "item": "Groceries", "amount": 1296.26, "date": "2025-01-28"}
+{"category": "Utilities", "item": "Internet", "amount": 22179.71, "date": "2025-10-17"}
+{"category": "Transportation", "item": "Public Transport", "amount": 26305.72, "date": "2025-09-22"}
+{"category": "Transportation", "item": "Parking", "amount": 8958.69, "date": "2025-02-09"}
+{"category": "Transportation", "item": "Parking", "amount": 11976.1, "date": "2025-05-27"}
+{"category": "Housing", "item": "Maintenance", "amount": 29584.43, "date": "2025-10-12"}
+{"category": "Utilities", "item": "Gas", "amount": 20818.83, "date": "2025-11-03"}
+{"category": "Utilities", "item": "Electricity", "amount": 24179.35, "date": "2025-02-08"}
+{"category": "Housing", "item": "Maintenance", "amount": 16315.79, "date": "2025-09-18"}
+{"category": "Housing", "item": "Furniture", "amount": 14087.89, "date": "2025-05-28"}
+{"category": "Transportation", "item": "Maintenance", "amount": 11328.13, "date": "2025-01-05"}
+{"category": "Food", "item": "Groceries", "amount": 26563.71, "date": "2025-02-01"}
+{"category": "Food", "item": "Restaurant", "amount": 9966.67, "date": "2025-07-23"}
+{"category": "Housing", "item": "Repairs", "amount": 16028.28, "date": "2025-03-29"}
+{"category": "Personal", "item": "Gifts", "amount": 25700.23, "date": "2025-05-21"}
+{"category": "Shopping", "item": "Clothing", "amount": 13466.43, "date": "2025-08-09"}
+{"category": "Transportation", "item": "Maintenance", "amount": 11181.68, "date": "2025-01-25"}
+{"category": "Housing", "item": "Repairs", "amount": 10471.13, "date": "2025-06-17"}
+{"category": "Food", "item": "Groceries", "amount": 29343.09, "date": "2025-05-23"}
+{"category": "Transportation", "item": "Gasoline", "amount": 28935.24, "date": "2025-12-29"}
+{"category": "Transportation", "item": "Parking", "amount": 17962.97, "date": "2025-07-13"}
+{"category": "Personal", "item": "Gym", "amount": 15071.07, "date": "2025-12-21"}
+{"category": "Food", "item": "Coffee", "amount": 4553.6, "date": "2025-08-24"}
+{"category": "Transportation", "item": "Taxi", "amount": 21201.85, "date": "2025-07-13"}
+{"category": "Shopping", "item": "Groceries", "amount": 23630.21, "date": "2025-12-05"}
+{"category": "Utilities", "item": "Electricity", "amount": 22024.87, "date": "2025-12-07"}
+{"category": "Entertainment", "item": "Books", "amount": 9915.85, "date": "2025-09-29"}
+{"category": "Personal", "item": "Gym", "amount": 6421.91, "date": "2025-01-13"}
+{"category": "Transportation", "item": "Maintenance", "amount": 6773.69, "date": "2025-11-04"}
+{"category": "Food", "item": "Groceries", "amount": 20549.67, "date": "2025-05-27"}
+{"category": "Entertainment", "item": "Movies", "amount": 13785.8, "date": "2025-09-28"}
+{"category": "Transportation", "item": "Public Transport", "amount": 1584.83, "date": "2025-02-16"}
+{"category": "Personal", "item": "Donations", "amount": 29746.63, "date": "2025-05-09"}
+{"category": "Transportation", "item": "Maintenance", "amount": 4277.35, "date": "2025-06-08"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 3088.55, "date": "2025-02-01"}
+{"category": "Housing", "item": "Maintenance", "amount": 8601.41, "date": "2025-06-25"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 12623.17, "date": "2025-07-20"}
+{"category": "Transportation", "item": "Taxi", "amount": 14307.99, "date": "2025-02-23"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 21578.09, "date": "2025-09-27"}
+{"category": "Housing", "item": "Furniture", "amount": 15669.24, "date": "2025-04-16"}
+{"category": "Entertainment", "item": "Games", "amount": 10566.22, "date": "2025-02-03"}
+{"category": "Personal", "item": "Gym", "amount": 22763.98, "date": "2025-12-24"}
+{"category": "Utilities", "item": "Gas", "amount": 15958.3, "date": "2025-08-10"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 29038.32, "date": "2025-01-22"}
+{"category": "Entertainment", "item": "Concerts", "amount": 26223.68, "date": "2025-10-07"}
+{"category": "Transportation", "item": "Parking", "amount": 10476.02, "date": "2025-08-29"}
+{"category": "Transportation", "item": "Parking", "amount": 15616.83, "date": "2025-05-04"}
+{"category": "Healthcare", "item": "Optometry", "amount": 16061.51, "date": "2025-10-01"}
+{"category": "Food", "item": "Restaurant", "amount": 11748.19, "date": "2025-07-14"}
+{"category": "Entertainment", "item": "Movies", "amount": 16942.31, "date": "2025-07-19"}
+{"category": "Personal", "item": "Clothing", "amount": 13544.83, "date": "2025-09-21"}
+{"category": "Transportation", "item": "Taxi", "amount": 7897.26, "date": "2025-01-07"}
+{"category": "Housing", "item": "Furniture", "amount": 29234.01, "date": "2025-12-19"}
+{"category": "Entertainment", "item": "Movies", "amount": 24962.61, "date": "2025-09-22"}
+{"category": "Entertainment", "item": "Games", "amount": 1308.95, "date": "2025-05-21"}
+{"category": "Housing", "item": "Furniture", "amount": 6171.45, "date": "2025-06-16"}
+{"category": "Personal", "item": "Gym", "amount": 18862.71, "date": "2025-03-04"}
+{"category": "Personal", "item": "Clothing", "amount": 15756.18, "date": "2025-02-06"}
+{"category": "Entertainment", "item": "Books", "amount": 7659.1, "date": "2025-03-25"}
+{"category": "Entertainment", "item": "Games", "amount": 19968.21, "date": "2025-10-04"}
+{"category": "Food", "item": "Coffee", "amount": 3047.17, "date": "2025-02-15"}
+{"category": "Housing", "item": "Repairs", "amount": 18024.43, "date": "2025-11-16"}
+{"category": "Food", "item": "Coffee", "amount": 7237.86, "date": "2025-08-21"}
+{"category": "Healthcare", "item": "Dental", "amount": 5712.83, "date": "2025-05-07"}
+{"category": "Entertainment", "item": "Books", "amount": 15026.85, "date": "2025-07-23"}
+{"category": "Entertainment", "item": "Streaming", "amount": 26132.54, "date": "2025-11-18"}
+{"category": "Food", "item": "Restaurant", "amount": 13503.39, "date": "2025-12-12"}
+{"category": "Housing", "item": "Maintenance", "amount": 9498.7, "date": "2025-03-16"}
+{"category": "Shopping", "item": "Clothing", "amount": 6246.49, "date": "2025-05-14"}
+{"category": "Housing", "item": "Maintenance", "amount": 4763.61, "date": "2025-01-16"}
+{"category": "Housing", "item": "Maintenance", "amount": 18905.55, "date": "2025-02-14"}
+{"category": "Personal", "item": "Clothing", "amount": 14236.07, "date": "2025-04-25"}
+{"category": "Utilities", "item": "Gas", "amount": 16377.88, "date": "2025-11-14"}
+{"category": "Healthcare", "item": "Optometry", "amount": 18032.85, "date": "2025-07-11"}
+{"category": "Shopping", "item": "Electronics", "amount": 22339.57, "date": "2025-11-02"}
+{"category": "Entertainment", "item": "Games", "amount": 28579.94, "date": "2025-07-23"}
+{"category": "Healthcare", "item": "Optometry", "amount": 5213.52, "date": "2025-06-19"}
+{"category": "Personal", "item": "Donations", "amount": 9822.87, "date": "2025-05-24"}
+{"category": "Food", "item": "Takeout", "amount": 2028.34, "date": "2025-09-29"}
+{"category": "Personal", "item": "Haircut", "amount": 26218.25, "date": "2025-07-02"}
+{"category": "Healthcare", "item": "Medication", "amount": 6502.87, "date": "2025-01-04"}
+{"category": "Utilities", "item": "Water Bill", "amount": 22911.44, "date": "2025-06-03"}
+{"category": "Transportation", "item": "Taxi", "amount": 21496.96, "date": "2025-10-20"}
+{"category": "Transportation", "item": "Gasoline", "amount": 22331.72, "date": "2025-11-02"}
+{"category": "Housing", "item": "Repairs", "amount": 14724.57, "date": "2025-09-29"}
+{"category": "Food", "item": "Takeout", "amount": 24316.11, "date": "2025-05-12"}
+{"category": "Housing", "item": "Furniture", "amount": 752.07, "date": "2025-06-20"}
+{"category": "Transportation", "item": "Maintenance", "amount": 9705.33, "date": "2025-05-06"}
+{"category": "Food", "item": "Coffee", "amount": 11899.71, "date": "2025-12-07"}
+{"category": "Housing", "item": "Furniture", "amount": 2454.97, "date": "2025-04-26"}
+{"category": "Food", "item": "Restaurant", "amount": 19950.45, "date": "2025-12-08"}
+{"category": "Personal", "item": "Clothing", "amount": 7530.85, "date": "2025-10-28"}
+{"category": "Housing", "item": "Mortgage", "amount": 23466.26, "date": "2025-09-14"}
+{"category": "Entertainment", "item": "Games", "amount": 7786.41, "date": "2025-12-08"}
+{"category": "Utilities", "item": "Water Bill", "amount": 5349.89, "date": "2025-01-27"}
+{"category": "Shopping", "item": "Groceries", "amount": 4980.68, "date": "2025-03-03"}
+{"category": "Transportation", "item": "Taxi", "amount": 7292.63, "date": "2025-05-16"}
+{"category": "Personal", "item": "Clothing", "amount": 15323.42, "date": "2025-12-15"}
+{"category": "Entertainment", "item": "Games", "amount": 17638.64, "date": "2025-01-11"}
+{"category": "Shopping", "item": "Accessories", "amount": 8256.95, "date": "2025-09-22"}
+{"category": "Food", "item": "Restaurant", "amount": 5617.77, "date": "2025-08-16"}
+{"category": "Housing", "item": "Repairs", "amount": 24670.79, "date": "2025-12-04"}
+{"category": "Shopping", "item": "Groceries", "amount": 11049.74, "date": "2025-10-18"}
+{"category": "Shopping", "item": "Clothing", "amount": 8083.48, "date": "2025-03-17"}
+{"category": "Personal", "item": "Donations", "amount": 3005.18, "date": "2025-06-12"}
+{"category": "Food", "item": "Fast Food", "amount": 15913.6, "date": "2025-03-20"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 10953.45, "date": "2025-08-13"}
+{"category": "Housing", "item": "Furniture", "amount": 1840.39, "date": "2025-03-13"}
+{"category": "Entertainment", "item": "Movies", "amount": 11042.57, "date": "2025-03-31"}
+{"category": "Shopping", "item": "Clothing", "amount": 14448.92, "date": "2025-11-06"}
+{"category": "Housing", "item": "Maintenance", "amount": 21716.29, "date": "2025-04-25"}
+{"category": "Personal", "item": "Clothing", "amount": 13374.51, "date": "2025-06-29"}
+{"category": "Transportation", "item": "Maintenance", "amount": 9631.76, "date": "2025-09-22"}
+{"category": "Personal", "item": "Gifts", "amount": 3638.52, "date": "2025-10-03"}
+{"category": "Transportation", "item": "Parking", "amount": 4472.85, "date": "2025-11-19"}
+{"category": "Food", "item": "Fast Food", "amount": 6900.75, "date": "2025-01-16"}
+{"category": "Personal", "item": "Donations", "amount": 24512.21, "date": "2025-08-18"}
+{"category": "Housing", "item": "Maintenance", "amount": 12354.3, "date": "2025-12-15"}
+{"category": "Healthcare", "item": "Medication", "amount": 9503.86, "date": "2025-07-04"}
+{"category": "Healthcare", "item": "Insurance", "amount": 21893.94, "date": "2025-01-15"}
+{"category": "Entertainment", "item": "Books", "amount": 24013.45, "date": "2025-10-10"}
+{"category": "Shopping", "item": "Clothing", "amount": 23717.17, "date": "2025-06-29"}
+{"category": "Personal", "item": "Clothing", "amount": 6959.59, "date": "2025-12-14"}
+{"category": "Entertainment", "item": "Games", "amount": 26353.24, "date": "2025-12-07"}
+{"category": "Food", "item": "Restaurant", "amount": 7212.51, "date": "2025-01-22"}
+{"category": "Transportation", "item": "Parking", "amount": 7572.82, "date": "2025-07-15"}
+{"category": "Housing", "item": "Rent", "amount": 29709.02, "date": "2025-11-21"}
+{"category": "Transportation", "item": "Parking", "amount": 22788.99, "date": "2025-06-10"}
+{"category": "Healthcare", "item": "Optometry", "amount": 11674.6, "date": "2025-09-04"}
+{"category": "Food", "item": "Fast Food", "amount": 23207.58, "date": "2025-12-04"}
+{"category": "Personal", "item": "Clothing", "amount": 17778.61, "date": "2025-12-07"}
+{"category": "Transportation", "item": "Gasoline", "amount": 10227.55, "date": "2025-11-19"}
+{"category": "Housing", "item": "Mortgage", "amount": 25501.74, "date": "2025-11-25"}
+{"category": "Entertainment", "item": "Games", "amount": 19291.11, "date": "2025-08-02"}
+{"category": "Transportation", "item": "Maintenance", "amount": 6570.12, "date": "2025-04-22"}
+{"category": "Entertainment", "item": "Books", "amount": 11722.51, "date": "2025-06-06"}
+{"category": "Entertainment", "item": "Books", "amount": 27754.88, "date": "2025-10-17"}
+{"category": "Food", "item": "Fast Food", "amount": 15265.49, "date": "2025-06-07"}
+{"category": "Food", "item": "Restaurant", "amount": 12440.06, "date": "2025-12-04"}
+{"category": "Healthcare", "item": "Optometry", "amount": 23476.42, "date": "2025-03-23"}
+{"category": "Food", "item": "Coffee", "amount": 5749.31, "date": "2025-07-19"}
+{"category": "Shopping", "item": "Clothing", "amount": 12335.77, "date": "2025-10-07"}
+{"category": "Utilities", "item": "Internet", "amount": 24055.12, "date": "2025-10-30"}
+{"category": "Food", "item": "Takeout", "amount": 3924.36, "date": "2025-03-15"}
+{"category": "Personal", "item": "Clothing", "amount": 24223.42, "date": "2025-10-05"}
+{"category": "Personal", "item": "Gifts", "amount": 9984.69, "date": "2025-06-29"}
+{"category": "Housing", "item": "Rent", "amount": 26069.94, "date": "2025-05-21"}
+{"category": "Utilities", "item": "Water Bill", "amount": 8244.76, "date": "2025-11-12"}
+{"category": "Shopping", "item": "Groceries", "amount": 24980.89, "date": "2025-12-04"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 4218.76, "date": "2025-12-23"}
+{"category": "Personal", "item": "Gym", "amount": 22969.76, "date": "2025-03-10"}
+{"category": "Personal", "item": "Donations", "amount": 16773.46, "date": "2025-06-17"}
+{"category": "Utilities", "item": "Internet", "amount": 527.55, "date": "2025-02-18"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 6477.81, "date": "2025-03-30"}
+{"category": "Transportation", "item": "Gasoline", "amount": 17206.15, "date": "2025-04-01"}
+{"category": "Entertainment", "item": "Streaming", "amount": 17178.29, "date": "2025-12-03"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 14925.89, "date": "2025-01-28"}
+{"category": "Food", "item": "Takeout", "amount": 24997.36, "date": "2025-03-27"}
+{"category": "Personal", "item": "Donations", "amount": 3042.39, "date": "2025-11-10"}
+{"category": "Entertainment", "item": "Streaming", "amount": 3157.9, "date": "2025-06-17"}
+{"category": "Entertainment", "item": "Streaming", "amount": 6722.93, "date": "2025-02-06"}
+{"category": "Utilities", "item": "Electricity", "amount": 15223.12, "date": "2025-10-24"}
+{"category": "Entertainment", "item": "Games", "amount": 22270.78, "date": "2025-03-29"}
+{"category": "Entertainment", "item": "Movies", "amount": 17665.54, "date": "2025-12-04"}
+{"category": "Food", "item": "Fast Food", "amount": 4277.43, "date": "2025-07-03"}
+{"category": "Utilities", "item": "Electricity", "amount": 23782.86, "date": "2025-08-19"}
+{"category": "Entertainment", "item": "Games", "amount": 6329.82, "date": "2025-09-29"}
+{"category": "Shopping", "item": "Groceries", "amount": 22497.71, "date": "2025-05-16"}
+{"category": "Personal", "item": "Gym", "amount": 16931.98, "date": "2025-06-27"}
+{"category": "Utilities", "item": "Electricity", "amount": 18676.36, "date": "2025-05-12"}
+{"category": "Shopping", "item": "Accessories", "amount": 4933.12, "date": "2025-12-24"}
+{"category": "Personal", "item": "Gym", "amount": 22914.23, "date": "2025-02-15"}
+{"category": "Personal", "item": "Gifts", "amount": 4995.76, "date": "2025-06-13"}
+{"category": "Housing", "item": "Mortgage", "amount": 7498.76, "date": "2025-02-28"}
+{"category": "Transportation", "item": "Parking", "amount": 17091.5, "date": "2025-07-17"}
+{"category": "Housing", "item": "Maintenance", "amount": 23579.29, "date": "2025-01-10"}
+{"category": "Utilities", "item": "Internet", "amount": 12074.39, "date": "2025-07-10"}
+{"category": "Food", "item": "Takeout", "amount": 23947.38, "date": "2025-11-25"}
+{"category": "Housing", "item": "Repairs", "amount": 14926.05, "date": "2025-11-19"}
+{"category": "Food", "item": "Coffee", "amount": 9518.74, "date": "2025-04-05"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 7465.89, "date": "2025-02-10"}
+{"category": "Utilities", "item": "Gas", "amount": 16927.81, "date": "2025-02-05"}
+{"category": "Utilities", "item": "Internet", "amount": 7831.47, "date": "2025-06-21"}
+{"category": "Entertainment", "item": "Games", "amount": 14130.0, "date": "2025-10-17"}
+{"category": "Entertainment", "item": "Games", "amount": 1379.42, "date": "2025-03-05"}
+{"category": "Utilities", "item": "Internet", "amount": 8926.33, "date": "2025-09-29"}
+{"category": "Transportation", "item": "Maintenance", "amount": 27478.2, "date": "2025-09-18"}
+{"category": "Housing", "item": "Rent", "amount": 5170.21, "date": "2025-10-08"}
+{"category": "Healthcare", "item": "Dental", "amount": 16508.09, "date": "2025-09-15"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 2412.37, "date": "2025-07-01"}
+{"category": "Housing", "item": "Mortgage", "amount": 28431.14, "date": "2025-07-24"}
+{"category": "Entertainment", "item": "Books", "amount": 22573.78, "date": "2025-06-15"}
+{"category": "Personal", "item": "Gifts", "amount": 21043.83, "date": "2025-07-29"}
+{"category": "Utilities", "item": "Water Bill", "amount": 13642.15, "date": "2025-09-29"}
+{"category": "Housing", "item": "Rent", "amount": 19350.28, "date": "2025-11-16"}
+{"category": "Personal", "item": "Donations", "amount": 525.07, "date": "2025-02-17"}
+{"category": "Transportation", "item": "Public Transport", "amount": 9786.42, "date": "2025-05-26"}
+{"category": "Housing", "item": "Repairs", "amount": 15361.53, "date": "2025-06-20"}
+{"category": "Entertainment", "item": "Movies", "amount": 5298.16, "date": "2025-08-17"}
+{"category": "Healthcare", "item": "Medication", "amount": 18421.48, "date": "2025-06-03"}
+{"category": "Personal", "item": "Clothing", "amount": 17668.84, "date": "2025-06-11"}
+{"category": "Utilities", "item": "Gas", "amount": 28928.76, "date": "2025-05-01"}
+{"category": "Personal", "item": "Gym", "amount": 1577.45, "date": "2025-02-13"}
+{"category": "Utilities", "item": "Water Bill", "amount": 3661.72, "date": "2025-01-10"}
+{"category": "Personal", "item": "Gym", "amount": 27464.73, "date": "2025-09-26"}
+{"category": "Transportation", "item": "Public Transport", "amount": 25879.1, "date": "2025-12-16"}
+{"category": "Food", "item": "Restaurant", "amount": 11140.16, "date": "2025-04-02"}
+{"category": "Personal", "item": "Donations", "amount": 7850.57, "date": "2025-01-22"}
+{"category": "Entertainment", "item": "Concerts", "amount": 10951.82, "date": "2025-07-02"}
+{"category": "Housing", "item": "Furniture", "amount": 15996.04, "date": "2025-12-25"}
+{"category": "Utilities", "item": "Gas", "amount": 15971.47, "date": "2025-10-03"}
+{"category": "Shopping", "item": "Accessories", "amount": 16297.05, "date": "2025-04-06"}
+{"category": "Entertainment", "item": "Games", "amount": 27348.38, "date": "2025-07-19"}
+{"category": "Food", "item": "Coffee", "amount": 21241.38, "date": "2025-04-08"}
+{"category": "Food", "item": "Groceries", "amount": 9819.4, "date": "2025-07-28"}
+{"category": "Shopping", "item": "Clothing", "amount": 20528.7, "date": "2025-04-19"}
+{"category": "Shopping", "item": "Accessories", "amount": 13512.31, "date": "2025-07-21"}
+{"category": "Transportation", "item": "Public Transport", "amount": 19145.81, "date": "2025-11-26"}
+{"category": "Food", "item": "Groceries", "amount": 19874.1, "date": "2025-07-18"}
+{"category": "Utilities", "item": "Water Bill", "amount": 11860.41, "date": "2025-08-30"}
+{"category": "Healthcare", "item": "Optometry", "amount": 18494.79, "date": "2025-01-23"}
+{"category": "Entertainment", "item": "Games", "amount": 29152.09, "date": "2025-01-24"}
+{"category": "Healthcare", "item": "Insurance", "amount": 1405.67, "date": "2025-08-28"}
+{"category": "Healthcare", "item": "Dental", "amount": 14948.54, "date": "2025-06-12"}
+{"category": "Transportation", "item": "Public Transport", "amount": 8783.41, "date": "2025-10-30"}
+{"category": "Personal", "item": "Clothing", "amount": 10862.35, "date": "2025-01-05"}
+{"category": "Food", "item": "Fast Food", "amount": 27111.21, "date": "2025-12-03"}
+{"category": "Housing", "item": "Repairs", "amount": 9557.81, "date": "2025-03-27"}
+{"category": "Housing", "item": "Repairs", "amount": 10258.34, "date": "2025-05-04"}
+{"category": "Healthcare", "item": "Dental", "amount": 27523.18, "date": "2025-07-18"}
+{"category": "Transportation", "item": "Taxi", "amount": 22758.6, "date": "2025-09-02"}
+{"category": "Utilities", "item": "Electricity", "amount": 17633.93, "date": "2025-01-24"}
+{"category": "Entertainment", "item": "Games", "amount": 9198.32, "date": "2025-11-26"}
+{"category": "Healthcare", "item": "Insurance", "amount": 15055.43, "date": "2025-09-02"}
+{"category": "Healthcare", "item": "Dental", "amount": 19543.42, "date": "2025-03-24"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 27035.86, "date": "2025-10-27"}
+{"category": "Shopping", "item": "Groceries", "amount": 7906.52, "date": "2025-05-22"}
+{"category": "Housing", "item": "Repairs", "amount": 23405.44, "date": "2025-04-18"}
+{"category": "Housing", "item": "Furniture", "amount": 8531.1, "date": "2025-03-12"}
+{"category": "Entertainment", "item": "Concerts", "amount": 19640.15, "date": "2025-01-14"}
+{"category": "Housing", "item": "Rent", "amount": 28035.32, "date": "2025-08-20"}
+{"category": "Utilities", "item": "Electricity", "amount": 13694.91, "date": "2025-06-12"}
+{"category": "Entertainment", "item": "Movies", "amount": 18357.9, "date": "2025-03-09"}
+{"category": "Utilities", "item": "Gas", "amount": 19908.91, "date": "2025-03-08"}
+{"category": "Healthcare", "item": "Optometry", "amount": 4263.49, "date": "2025-06-26"}
+{"category": "Transportation", "item": "Maintenance", "amount": 2560.8, "date": "2025-03-10"}
+{"category": "Food", "item": "Takeout", "amount": 29550.97, "date": "2025-05-24"}
+{"category": "Entertainment", "item": "Movies", "amount": 12580.4, "date": "2025-05-02"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 11077.31, "date": "2025-05-09"}
+{"category": "Personal", "item": "Haircut", "amount": 4871.26, "date": "2025-04-17"}
+{"category": "Housing", "item": "Repairs", "amount": 20846.36, "date": "2025-08-26"}
+{"category": "Housing", "item": "Mortgage", "amount": 7161.55, "date": "2025-05-19"}
+{"category": "Personal", "item": "Gifts", "amount": 19422.38, "date": "2025-03-23"}
+{"category": "Personal", "item": "Haircut", "amount": 27926.32, "date": "2025-12-13"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 29041.54, "date": "2025-10-19"}
+{"category": "Healthcare", "item": "Doctor Visit", "amount": 6125.52, "date": "2025-08-16"}
+{"category": "Housing", "item": "Mortgage", "amount": 25472.24, "date": "2025-04-08"}
+{"category": "Shopping", "item": "Accessories", "amount": 9843.56, "date": "2025-07-07"}
+{"category": "Food", "item": "Takeout", "amount": 23292.74, "date": "2025-05-25"}
+{"category": "Healthcare", "item": "Medication", "amount": 21277.57, "date": "2025-04-14"}
+{"category": "Entertainment", "item": "Streaming", "amount": 23609.07, "date": "2025-09-15"}
+{"category": "Housing", "item": "Mortgage", "amount": 4541.02, "date": "2025-10-11"}
+{"category": "Entertainment", "item": "Games", "amount": 26396.09, "date": "2025-06-17"}
+{"category": "Utilities", "item": "Water Bill", "amount": 16534.88, "date": "2025-12-28"}
+{"category": "Personal", "item": "Haircut", "amount": 22789.62, "date": "2025-05-14"}
+{"category": "Housing", "item": "Maintenance", "amount": 20635.89, "date": "2025-02-11"}
+{"category": "Entertainment", "item": "Movies", "amount": 3906.39, "date": "2025-05-08"}
+{"category": "Food", "item": "Takeout", "amount": 12311.94, "date": "2025-12-14"}
+{"category": "Food", "item": "Fast Food", "amount": 9815.28, "date": "2025-03-13"}
+{"category": "Healthcare", "item": "Dental", "amount": 4189.31, "date": "2025-06-11"}
+{"category": "Food", "item": "Fast Food", "amount": 26830.59, "date": "2025-03-21"}
+{"category": "Personal", "item": "Donations", "amount": 7169.44, "date": "2025-05-22"}
+{"category": "Utilities", "item": "Water Bill", "amount": 25653.08, "date": "2025-07-27"}
+{"category": "Food", "item": "Takeout", "amount": 17951.71, "date": "2025-03-31"}
+{"category": "Food", "item": "Coffee", "amount": 1991.47, "date": "2025-11-26"}
+{"category": "Healthcare", "item": "Optometry", "amount": 26284.71, "date": "2025-12-25"}
+{"category": "Utilities", "item": "Phone Bill", "amount": 13530.4, "date": "2025-10-10"}
+{"category": "Entertainment", "item": "Movies", "amount": 14594.4, "date": "2025-04-03"}
+{"category": "Healthcare", "item": "Medication", "amount": 24656.31, "date": "2025-02-13"}
+{"category": "Entertainment", "item": "Books", "amount": 1280.66, "date": "2025-11-07"}
+{"category": "Personal", "item": "Gifts", "amount": 5774.76, "date": "2025-09-24"}
+{"category": "Healthcare", "item": "Medication", "amount": 6084.55, "date": "2025-11-02"}
+{"category": "Shopping", "item": "Home Supplies", "amount": 29221.26, "date": "2025-09-21"}
+{"category": "Housing", "item": "Furniture", "amount": 14421.86, "date": "2025-03-04"}
+{"category": "Personal", "item": "Donations", "amount": 9294.11, "date": "2025-10-20"}
+{"category": "Transportation", "item": "Gasoline", "amount": 25844.36, "date": "2025-09-19"}

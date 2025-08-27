@@ -27,7 +27,7 @@ if __name__ == "__main__":
             categorize_expense()
         elif choice == '5':
             # Code to generate monthly summery
-            pass
+            generate_summary()
         elif choice == '6':
             # Code to export reports
             # Export can be choosen from json or csv file format

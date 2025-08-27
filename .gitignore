@@ -23,4 +23,4 @@ build/
 
 
 #Files for starting from compeletely newly if someone want
-src/personal_expense_tracker/files/*
+# src/personal_expense_tracker/files/*
