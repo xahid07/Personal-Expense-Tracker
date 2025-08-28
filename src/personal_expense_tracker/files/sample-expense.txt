@@ -1126,5 +1126,5 @@
 {"category": "Healthcare", "item": "Medication", "amount": 6084.55, "date": "2025-11-02"}
 {"category": "Shopping", "item": "Home Supplies", "amount": 29221.26, "date": "2025-09-21"}
 {"category": "Housing", "item": "Furniture", "amount": 14421.86, "date": "2025-03-04"}
-{"category": "Food", "item": "Banana", "amount": 121.0, "date": "2025-10-20"}
+{"category": "Personal", "item": "Donations", "amount": 9294.11, "date": "2025-10-20"}
 {"category": "Transportation", "item": "Gasoline", "amount": 25844.36, "date": "2025-09-19"}
