@@ -1127,4 +1127,8 @@
 {"category": "Shopping", "item": "Home Supplies", "amount": 29221.26, "date": "2025-09-21"}
 {"category": "Housing", "item": "Furniture", "amount": 14421.86, "date": "2025-03-04"}
 {"category": "Food", "item": "Banana", "amount": 121.0, "date": "2025-10-20"}
-{"category": "Transportation", "item": "Gasoline", "amount": 25844.36, "date": "2025-09-19"}
+{"category": "Transportation", "item": "Octen", "amount": 1250.0, "date": "2025-08-19"}
+{"category": "Food", "item": "Pineapple", "amount": 200.0, "date": "2025-08-29"}
+{"category": "Housing", "item": "Mirror", "amount": 1000.0, "date": "2025-08-29"}
+{"category": "Personal", "item": "Hair cutting", "amount": 100.0, "date": "2025-08-29"}
+{"category": "Shopping", "item": "Baby Cloths", "amount": 1013.0, "date": "2025-08-29"}

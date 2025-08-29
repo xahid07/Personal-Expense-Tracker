@@ -31,6 +31,6 @@ if __name__ == "__main__":
         elif choice == '6':
             # Code to export reports
             # Export can be choosen from json or csv file format
-            pass
+            export_expense()
         else:
             print("Invalid choice. Please try again.")

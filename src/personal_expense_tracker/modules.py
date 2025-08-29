@@ -79,6 +79,9 @@ import json
 
 _file = Path("./src/personal_expense_tracker/files/expense.txt")
 
+# ----------------------------
+# Helper section..............
+# ----------------------------
 def _ensure_dir_helper(path: Path) -> Path:
     """
     Ensure that the given directory exists; create it if it does not.
@@ -92,7 +95,7 @@ def _ensure_dir_helper(path: Path) -> Path:
     path.mkdir(parents=True, exist_ok=True)
     return path
 
-def _file_saving_helper(data, file=_file, line_number=None):
+def _file_saving_helper(data: dict, file: Path = _file, line_number: int = None) -> None:
     """
     Save or update an expense record in a line-based JSON file.
 
@@ -117,10 +120,10 @@ def _file_saving_helper(data, file=_file, line_number=None):
         # Update mode
         lines = file.read_text(encoding="utf-8").splitlines()
         lines[line_number - 1] = json.dumps(data)
-        file.write_text("\n".join(lines), encoding="utf-8")
+        file.write_text("\n".join(lines)+"\n", encoding="utf-8")
         print('Data has been updated to the file...')
 
-def _loading_data_helper(file):
+def _loading_data_helper(file:Path = _file) -> list[dict]:
     """
     Load expense data from a file and return as a list of dictionaries.
 
@@ -135,7 +138,7 @@ def _loading_data_helper(file):
     with open(file, "r", encoding="utf-8") as f:
         return [json.loads(line) for line in f if line.strip()]
 
-def _date_validation_helper(date):
+def _date_validation_helper(date:str) -> str:
     """
     Validate and parse a date string in 'YYYY-MM-DD' format.
 
@@ -151,7 +154,7 @@ def _date_validation_helper(date):
     except ValueError:
         return False
 
-def _enumerate_show_helper(data):
+def _enumerate_show_helper(data: list[dict]) -> None:
     """
     Display a list of expense entries in a formatted table with enumeration.
 
@@ -162,7 +165,116 @@ def _enumerate_show_helper(data):
     table = [(idx, e['category'], e['item'], e['amount'], e['date']) for idx, e in enumerate(data, 1)]
     print(tabulate(table, headers=["ID", "CATEGORY", "ITEM", "AMOUNT", "DATE"]))
 
-def add_expense():
+def _total_return_helper(items: list[dict]) -> tuple[int, str]:
+    """
+    Calculate the total number of items and total amount for a list of expenses.
+
+    Args:
+        items (list[dict]): List of expense dictionaries.
+
+    Returns:
+        tuple: (total_items, total_amount)
+    """
+    total_amount = sum(x["amount"] for x in items)
+    return (len(items), total_amount)
+
+def _ordinal_helper(n: int) -> str:
+    """
+    Convert an integer to its ordinal representation (e.g., 1 -> 1st).
+
+    Args:
+        n (int): Number to convert.
+
+    Returns:
+        str: Ordinal string.
+    """
+    if 10 <= n % 100 <= 20:
+        return f"{n}th"
+    else:
+        suffix = {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
+    return f"{n}{suffix}"
+
+def _date_based_sorting_helper(file:Path = _file, Reverse = True) -> list:
+    return sorted(
+        _loading_data_helper(file),
+        key=lambda x: datetime.strptime(x["date"], "%Y-%m-%d"),
+        reverse=Reverse
+    )
+
+def _month_normalizer_helper(month: str|int) ->int:
+    from calendar import month_name
+
+    if isinstance(month, int):
+        return month
+    month_str = str(month).lower()
+    for i, name in enumerate(month_name):
+        if name and name.lower().startswith(month_str):
+            return i
+    raise ValueError(f"Invalid month: {month}")
+
+# ----------------------------
+# Generator section...........
+# ----------------------------
+
+def _weekly_report_generator(year: int, week: int, file: Path = _file) -> list[dict]:
+    """
+    Print a weekly expense report.
+
+    Args:
+        year (int): Year of the week.
+        week (int): ISO week number (1–52).
+    """
+    expenses = _date_based_sorting_helper(file)
+    entries = [
+        e for e in expenses
+        if (dt := datetime.strptime(e['date'], '%Y-%m-%d')).year == year
+        and dt.isocalendar().week == week
+    ]
+    return entries
+
+def _monthly_report_generator(year: int, month: int | str, file: Path = _file) -> list[dict]:
+    """
+    Print a monthly expense report.
+
+    Args:
+        year (int): Year of the month.
+        month (int | str): Month number (1–12) or month name (e.g., 'January').
+    """
+    expenses = _date_based_sorting_helper(file)
+    monthly_report = defaultdict(list)
+    for e in expenses:
+        dt = datetime.strptime(e["date"], "%Y-%m-%d")
+        monthly_report[(dt.year, dt.month, dt.strftime('%B'))].append(e)
+    
+    month = _month_normalizer_helper(month)
+    key = next(
+        (k for k in monthly_report
+        if k[0] == year and k[1] == month)
+        , None)
+    
+    return key, monthly_report[key]
+
+def _yearly_report_generator(year: int, file: Path = _file) -> list[dict]:
+    """
+    Print a yearly expense report.
+
+    Args:
+        year (int): Year to report.
+    """
+    expenses = _date_based_sorting_helper(file)
+    entries = [
+        e for e in expenses
+        if datetime.strptime(e["date"], "%Y-%m-%d").year == year
+                ]
+    return entries
+
+
+# ----------------------------
+# Main Function section.......
+# ----------------------------
+
+
+def add_expense(file = _file):
     """
     Interactively add a new expense entry.
 
@@ -198,7 +310,7 @@ def add_expense():
             "date": date
         }
         
-        _file_saving_helper(expense_data)
+        _file_saving_helper(expense_data, file)
         print(f"Expense added: {category}, {item}, {amount}, {date}\n")
         
         more_input = input("Do you want to add more? (y/n): ").strip().lower()
@@ -263,7 +375,7 @@ def update_expense(file=_file):
             "amount": float(amount),
             "date": _date_validation_helper(date) or expense['date']
         }
-        _file_saving_helper(updated_expense, file, line_number=idx)
+        _file_saving_helper(updated_expense, file, idx)
 
         more_input = input("Do you want to update more? (y/n): ").strip().lower()
         if more_input not in ("y", "yes"):
@@ -304,103 +416,6 @@ def generate_summary(file=_file):
     Args:
         file (Path, optional): File path containing expense records.
     """
-    expenses = _loading_data_helper(file)
-    expenses.sort(key=lambda x: datetime.strptime(x["date"], "%Y-%m-%d"), reverse=True)
-
-    weekly_report = defaultdict(list)
-    monthly_report = defaultdict(list)
-    yearly_report = defaultdict(list)
-
-    for e in expenses:
-        dt = datetime.strptime(e["date"], "%Y-%m-%d")
-        weekly_report[(dt.year, dt.isocalendar().week)].append(e)
-        monthly_report[(dt.year, dt.month, dt.strftime('%B'))].append(e)
-        yearly_report[dt.year].append(e)
-
-    def _total_return(items):
-        """
-        Calculate the total number of items and total amount for a list of expenses.
-
-        Args:
-            items (list[dict]): List of expense dictionaries.
-
-        Returns:
-            tuple: (total_items, total_amount)
-        """
-        total_amount = sum(x["amount"] for x in items)
-        return len(items), total_amount
-
-    def _ordinal(n: int) -> str:
-        """
-        Convert an integer to its ordinal representation (e.g., 1 -> 1st).
-
-        Args:
-            n (int): Number to convert.
-
-        Returns:
-            str: Ordinal string.
-        """
-        if 10 <= n % 100 <= 20:
-            return f"{n}th"
-        else:
-            suffix = {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
-        return f"{n}{suffix}"
-
-    def weeklyReport(year: int, week: int):
-        """
-        Print a weekly expense report.
-
-        Args:
-            year (int): Year of the week.
-            week (int): ISO week number (1–52).
-        """
-        entries = weekly_report[(year, week)]
-        if not entries:
-            print(f"No expense recorded for week {week} of {year}.")
-            return
-        total_item, total_amount = _total_return(entries)
-        print(f"Weekly report for {_ordinal(week)} week of {year} -> (Total items: {total_item}, Total amount: ${total_amount:,.2f}) :")
-        for entry in entries:
-            print(f"-- Category: {entry['category']:<15s} | ({entry['item']} for ${entry['amount']:,.2f}) -> {entry['date']}")
-
-    def monthlyReport(year: int, month: int | str):
-        """
-        Print a monthly expense report.
-
-        Args:
-            year (int): Year of the month.
-            month (int | str): Month number (1–12) or month name (e.g., 'January').
-        """
-        keys = monthly_report.keys()
-        original_key = tuple()
-        for key in keys:
-            if set((year, month)).issubset(key):
-                original_key = key
-                break
-        if not original_key:
-            print(f"No expense recorded for {month} month of {year}.")
-            return
-        entries = monthly_report[original_key]
-        total_item, total_amount = _total_return(entries)
-        print(f"Monthly report for {original_key} -> (Total items: {total_item}, Total amount: ${total_amount:,.2f}) :")
-        for entry in entries:
-            print(f"-- Category: {entry['category']:<15s} | ({entry['item']} for ${entry['amount']:,.2f}) -> {entry['date']}")
-
-    def yearlyReport(year: int):
-        """
-        Print a yearly expense report.
-
-        Args:
-            year (int): Year to report.
-        """
-        entries = yearly_report[year]
-        if not entries:
-            print(f"No expense recorded for year {year}.")
-            return
-        total_item, total_amount = _total_return(entries)
-        print(f"Yearly report for {year} -> (Total items: {total_item}, Total amount: ${total_amount:,.2f}) :")
-        for entry in entries:
-            print(f"-- Category: {entry['category']:<15s} | ({entry['item']} for ${entry['amount']:,.2f}) -> {entry['date']}")
 
     print("Choose which report you want:\n1. Weekly\n2. Monthly\n3. Yearly\n")
     choice = input("Enter your choice: ").strip()
@@ -410,16 +425,44 @@ def generate_summary(file=_file):
             case '1':
                 year = int(input('Enter the year of the week: ').strip())
                 week = int(input('Enter the week number (1 to 52): ').strip())
-                weeklyReport(year, week)
+                entries = _weekly_report_generator(year, week, file)
+                if not entries:
+                    print(f"No expense recorded for week {week} of {year}.")
+                    return
+                total_item, total_amount = _total_return_helper(entries)
+                print(f"Weekly report for {_ordinal_helper(week)} week of {year} -> (Total items: {total_item}, Total amount: ${total_amount:,.2f}) :")
+                for entry in entries:
+                    print(f"-- Category: {entry['category']:<15s} | ({entry['item']} for ${entry['amount']:,.2f}) -> {entry['date']}")
+
             case '2':
                 year = int(input('Enter the year: ').strip())
                 input_month = input('Enter the month (name/number): ').strip()
                 month = int(input_month) if input_month.isdigit() else input_month
-                monthlyReport(year, month)
+                key, entries = _monthly_report_generator(year, month, file)
+                if not key:
+                    print(f"No expense recorded for {month} month of {year}.")
+                    return
+                total_item, total_amount = _total_return_helper(entries)
+                print(f"Monthly report for {key} -> (Total items: {total_item}, Total amount: ${total_amount:,.2f}) :")
+                for entry in entries:
+                    print(f"-- Category: {entry['category']:<15s} | ({entry['item']} for ${entry['amount']:,.2f}) -> {entry['date']}")
+
             case '3':
                 year = int(input('Enter the year: ').strip())
-                yearlyReport(year)
+                entries = _yearly_report_generator(year, file)
+                if not entries:
+                    print(f"No expense recorded for year {year}.")
+                    return
+                total_item, total_amount = _total_return_helper(entries)
+                print(f"Yearly report for {year} -> (Total items: {total_item}, Total amount: ${total_amount:,.2f}) :")
+                for entry in entries:
+                    print(f"-- Category: {entry['category']:<15s} | ({entry['item']} for ${entry['amount']:,.2f}) -> {entry['date']}")
+
             case _:
                 print('Invalid choice. No summary.')
     except Exception as e:
         print(f"Error generating summary: {e}")
+
+def export_expense(file=_file):
+    report_type = input("Report type (Weekly/Monthly/Yearly): ").strip().lower()
+    report_format = input("format (CSV/JSON): ").strip().lower()
